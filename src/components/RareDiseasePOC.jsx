@@ -122,11 +122,10 @@ NO agregues texto fuera del JSON. Solo el objeto JSON completo y válido.`
     try {
       const apiKey = import.meta.env.VITE_ANTHROPIC_API_KEY;
       console.log('🔍 Debug - API Key disponible:', apiKey ? 'SÍ (longitud: ' + apiKey.length + ')' : 'NO');
-      console.log('🔍 Debug - Todas las variables:', import.meta.env);
       
       if (!apiKey) {
         console.error('❌ API key no configurada en variables de entorno');
-        throw new Error('API key no configurada');
+        throw new Error('API key no configurada. En producción, la funcionalidad de generación está deshabilitada por seguridad.');
       }
       
       // Usar proxy en desarrollo, API directa en producción
