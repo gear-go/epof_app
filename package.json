@@ -2,7 +2,6 @@
   "name": "rarepol-poc",
   "version": "1.0.0",
   "description": "POC - Generador de Trayectorias EPOF para investigación en enfermedades raras",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
