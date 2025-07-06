@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Pages Setup - EPOF App</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .alert {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px;
+            text-align: center;
+        }
+        
+        .alert h2 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .alert p {
+            color: #856404;
+            font-size: 1.1em;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .step {
+            background: #f8f9fa;
+            border-left: 5px solid #007bff;
+            padding: 25px;
+            margin: 25px 0;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .step h3 {
+            color: #007bff;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+        
+        .step-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .step-list li {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            border: 1px solid #e9ecef;
+            position: relative;
+            padding-left: 50px;
+        }
+        
+        .step-list li::before {
+            content: attr(data-step);
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #007bff;
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        
+        .code-block {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            margin: 10px 0;
+            overflow-x: auto;
+        }
+        
+        .success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        
+        .warning {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        
+        .error {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        
+        .url-section {
+            background: linear-gradient(135deg, #e8f5e8 0%, #f0f8f0 100%);
+            border: 2px solid #28a745;
+            border-radius: 15px;
+            padding: 25px;
+            margin: 25px 0;
+            text-align: center;
+        }
+        
+        .url-link {
+            background: #28a745;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-size: 1.2em;
+            font-weight: bold;
+            display: inline-block;
+            margin: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        .url-link:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+        
+        .checklist {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .checklist h4 {
+            color: #495057;
+            margin-bottom: 15px;
+        }
+        
+        .checklist ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .checklist li {
+            padding: 8px 0;
+            border-bottom: 1px solid #e9ecef;
+        }
+        
+        .checklist li::before {
+            content: "☐";
+            margin-right: 10px;
+            font-size: 1.2em;
+            color: #6c757d;
+        }
+        
+        .footer {
+            background: #2c3e50;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .content {
+                padding: 15px;
+            }
+            
+            .step {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚨 GitHub Pages Setup Requerido</h1>
+            <p>Configuración crítica para despliegue automático</p>
+        </div>
+        
+        <div class="alert">
+            <h2>⚠️ ACCIÓN REQUERIDA</h2>
+            <p>El workflow está fallando porque GitHub Pages no está configurado correctamente. Sigue los pasos de abajo <strong>EXACTAMENTE</strong>.</p>
+        </div>
+        
+        <div class="content">
+            <div class="error">
+                <h4>🔴 Error Actual:</h4>
+                <div class="code-block">
+remote: Permission to gear-go/epof_app.git denied to github-actions[bot].
+fatal: unable to access 'https://github.com/gear-go/epof_app.git/': The requested URL returned error: 403
+                </div>
+            </div>
+            
+            <div class="step">
+                <h3>🔧 Paso 1: Configurar GitHub Pages</h3>
+                <ul class="step-list">
+                    <li data-step="1">Ve a: <strong>https://github.com/gear-go/epof_app</strong></li>
+                    <li data-step="2">Haz clic en <strong>"Settings"</strong> (pestaña superior)</li>
+                    <li data-step="3">En el menú lateral, busca <strong>"Pages"</strong></li>
+                    <li data-step="4">En <strong>"Source"</strong>, selecciona <strong>"GitHub Actions"</strong></li>
+                    <li data-step="5">Haz clic en <strong>"Save"</strong></li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>⚠️ IMPORTANTE:</strong> NO selecciones "Deploy from a branch". Debe ser "GitHub Actions".
+                </div>
+            </div>
+            
+            <div class="step">
+                <h3>🛡️ Paso 2: Configurar Permisos</h3>
+                <ul class="step-list">
+                    <li data-step="1">Ve a <strong>Settings > Actions > General</strong></li>
+                    <li data-step="2">Scroll hasta <strong>"Workflow permissions"</strong></li>
+                    <li data-step="3">Selecciona <strong>"Read and write permissions"</strong></li>
+                    <li data-step="4">Marca <strong>"Allow GitHub Actions to create and approve pull requests"</strong></li>
+                    <li data-step="5">Haz clic en <strong>"Save"</strong></li>
+                </ul>
+            </div>
+            
+            <div class="step">
+                <h3>🔄 Paso 3: Verificar Configuración</h3>
+                <div class="checklist">
+                    <h4>✅ Checklist de Configuración:</h4>
+                    <ul>
+                        <li>GitHub Pages Source: "GitHub Actions"</li>
+                        <li>Workflow permissions: "Read and write permissions"</li>
+                        <li>Allow pull requests: ✓ Marcado</li>
+                        <li>Repository visibility: Public</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="step">
+                <h3>🚀 Paso 4: Desplegar</h3>
+                <ul class="step-list">
+                    <li data-step="1">Haz cualquier cambio pequeño en el código</li>
+                    <li data-step="2">Commit y push a la rama <strong>main</strong></li>
+                    <li data-step="3">Ve a la pestaña <strong>"Actions"</strong> para ver el progreso</li>
+                    <li data-step="4">Espera 2-3 minutos para que se complete</li>
+                    <li data-step="5">Visita la aplicación en la URL de abajo</li>
+                </ul>
+            </div>
+            
+            <div class="url-section">
+                <h2>🎯 Enlaces del Proyecto</h2>
+                <a href="https://github.com/gear-go/epof_app" target="_blank" class="url-link">
+                    📁 Repositorio GitHub
+                </a>
+                <a href="https://github.com/gear-go/epof_app/settings/pages" target="_blank" class="url-link">
+                    ⚙️ Configurar Pages
+                </a>
+                <a href="https://github.com/gear-go/epof_app/actions" target="_blank" class="url-link">
+                    🔄 Ver Actions
+                </a>
+                <a href="https://gear-go.github.io/epof_app/" target="_blank" class="url-link">
+                    🚀 Aplicación Final
+                </a>
+            </div>
+            
+            <div class="success">
+                <h4>✅ Configuración Exitosa Mostrará:</h4>
+                <div class="code-block">
+✅ GitHub Actions workflow: Build and Deploy completed successfully
+✅ GitHub Pages: Site deployed successfully
+✅ URL: https://gear-go.github.io/epof_app/
+                </div>
+            </div>
+            
+            <div class="step">
+                <h3>🛠️ Cambios Técnicos Realizados</h3>
+                <p>He actualizado el workflow para usar la metodología moderna de GitHub Pages:</p>
+                <ul>
+                    <li>✅ Separación de jobs: Build y Deploy</li>
+                    <li>✅ Uso de <code>actions/deploy-pages@v2</code> (oficial)</li>
+                    <li>✅ Configuración de environments</li>
+                    <li>✅ Mejor manejo de permisos</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <h3>🎯 Resultado Esperado</h3>
+            <p>Una vez configurado: GitHub Actions ✅ → GitHub Pages ✅ → https://gear-go.github.io/epof_app/</p>
+            <p><strong>Tiempo estimado:</strong> 5 minutos de configuración + 2-3 minutos de despliegue</p>
+        </div>
+    </div>
+</body>
+</html>
