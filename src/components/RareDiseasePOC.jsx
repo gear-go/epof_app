@@ -1,56 +1,37 @@
 import React, { useState, useEffect } from 'react'
 import { Brain, AlertCircle, Download, Trash2, RefreshCw, Copy, X } from 'lucide-react'
+import { communities } from '../data/communities.js'
 
 const RareDiseasePOC = () => {
   const [selectedCommunity, setSelectedCommunity] = useState('')
   const [generatedTrajectories, setGeneratedTrajectories] = useState([])
   const [isGenerating, setIsGenerating] = useState(false)
-  const [communities, setCommunities] = useState([])
+  const [communitiesData, setCommunitiesData] = useState([])
   const [currentPatientCount, setCurrentPatientCount] = useState(1)
   const [showCSVModal, setShowCSVModal] = useState(false)
   const [csvContent, setCsvContent] = useState('')
 
-  const epofCommunities = {
-    'metabolicas_raras': {
-      name: 'Enfermedades Metabólicas Raras',
-      codes: ['E84.0', 'E84.1', 'E70.0', 'E84.9'],
-      description: 'Fibrosis quística, fenilcetonuria y trastornos metabólicos',
-      prevalence: '1:2500',
-      avgDiagnosisTime: 24,
-      commonSpecialties: ['pediatria', 'genetica', 'neumologia', 'gastroenterologia']
-    },
-    'hematologicas_raras': {
-      name: 'Enfermedades Hematológicas Raras', 
-      codes: ['D56.0', 'D56.1', 'D57.0', 'D57.1'],
-      description: 'Talasemias, anemia falciforme y trastornos sanguíneos',
-      prevalence: '1:1000',
-      avgDiagnosisTime: 18,
-      commonSpecialties: ['hematologia', 'pediatria', 'medicina_interna']
-    },
-    'neurologicas_raras': {
-      name: 'Enfermedades Neurológicas Raras',
-      codes: ['G10', 'F02.2', 'G71.0'],
-      description: 'Huntington, distrofias musculares',
-      prevalence: '1:10000',
-      avgDiagnosisTime: 60,
-      commonSpecialties: ['neurologia', 'genetica', 'psiquiatria']
-    },
-    'congenitas_raras': {
-      name: 'Malformaciones Congénitas Raras',
-      codes: ['Q87.4', 'Q96.9', 'Q98.0', 'Q78.0'],
-      description: 'Marfan, Turner, Klinefelter, osteogénesis imperfecta',
-      prevalence: '1:5000', 
-      avgDiagnosisTime: 36,
-      commonSpecialties: ['genetica', 'cardiologia', 'traumatologia', 'endocrinologia']
-    }
-  }
-
   useEffect(() => {
-    setCommunities(Object.entries(epofCommunities))
+    // Convertir el formato de communities.js al formato esperado por el componente
+    const formattedCommunities = communities.map(community => [
+      community.id,
+      {
+        name: community.nombre,
+        codes: community.cie10,
+        description: community.enfermedades.join(', '),
+        avgDiagnosisTime: community.insights.tiempo_promedio_diagnostico_meses,
+        commonSpecialties: community.especialidades,
+        insights: community.insights
+      }
+    ])
+    setCommunitiesData(formattedCommunities)
   }, [])
 
   const generateUniqueTrajectory = async (communityKey, patientNumber) => {
-    const community = epofCommunities[communityKey]
+    const communityData = communitiesData.find(([key]) => key === communityKey)
+    if (!communityData) return null
+    
+    const community = communityData[1]
     const patientId = `POC_${communityKey.substring(0,3).toUpperCase()}_${String(patientNumber).padStart(3, '0')}`
     
     const ages = [1, 3, 7, 12, 16, 23, 28, 35, 42]
@@ -77,7 +58,7 @@ DATOS DEL PACIENTE:
 - Región: ${randomRegion}
 - Nivel socioeconómico: ${randomSocio}
 - Severidad: ${randomSeverity}
-- Fecha inicio síntomas: ${startDate.toISOString().split('T')[0]}
+- Fecha inicio síntomas: 2023-05-06
 
 COMUNIDAD DIAGNÓSTICA: ${community.name}
 - Enfermedades: ${community.description}
@@ -139,35 +120,86 @@ NO agregues texto fuera del JSON. Solo el objeto JSON completo y válido.`
 
     // Intentar con API directa de Anthropic
     try {
-      const response = await fetch('https://api.anthropic.com/v1/messages', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'x-api-key': 'TU_API_KEY_AQUI', // Reemplazar con tu API key
-          'anthropic-version': '2023-06-01'
-        },
-        body: JSON.stringify({
-          model: 'claude-3-sonnet-20240229',
-          max_tokens: 4000,
-          messages: [
-            {
-              role: 'user',
-              content: prompt
-            }
-          ]
-        })
-      })
-
-      if (response.ok) {
-        const data = await response.json()
-        const result = JSON.parse(data.content[0].text)
-        result.generacion_metodo = "API_DIRECTA"
-        return result
-      } else {
-        console.log('API directa falló:', response.status, response.statusText)
+      const apiKey = import.meta.env.VITE_ANTHROPIC_API_KEY;
+      console.log('🔍 Debug - API Key disponible:', apiKey ? 'SÍ (longitud: ' + apiKey.length + ')' : 'NO');
+      console.log('🔍 Debug - Todas las variables:', import.meta.env);
+      
+      if (!apiKey) {
+        console.error('❌ API key no configurada en variables de entorno');
+        throw new Error('API key no configurada');
       }
+      
+      // Usar proxy en desarrollo, API directa en producción
+      const apiUrl = import.meta.env.DEV 
+        ? '/api/anthropic/v1/messages'  // Proxy para desarrollo
+        : 'https://api.anthropic.com/v1/messages'; // Directo en producción
+      
+      console.log('🚀 Intentando llamada a API de Anthropic...', apiUrl);
+      
+      // Lista de modelos para probar
+      const modelsToTry = [
+        'claude-3-haiku-20240307',
+        'claude-3-sonnet-20240229',
+        'claude-3-5-sonnet-20241022'
+      ];
+      
+      let lastError = null;
+      
+      for (const model of modelsToTry) {
+        try {
+          console.log(`🔄 Probando modelo: ${model}`);
+          
+          // Crear payload
+          const payload = {
+            model: model,
+            max_tokens: 4000,
+            messages: [
+              {
+                role: 'user',
+                content: prompt
+              }
+            ]
+          };
+          
+          console.log('📦 Payload enviado:', JSON.stringify(payload, null, 2));
+          
+          const response = await fetch(apiUrl, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'x-api-key': apiKey,
+              'anthropic-version': '2023-06-01'
+            },
+            body: JSON.stringify(payload)
+          });
+
+          console.log('📡 Respuesta de la API - Status:', response.status, response.statusText);
+          
+          if (response.ok) {
+            const data = await response.json();
+            console.log('✅ Respuesta exitosa de la API:', data);
+            const result = JSON.parse(data.content[0].text);
+            result.generacion_metodo = "API_DIRECTA";
+            result.modelo_usado = model;
+            return result;
+          } else {
+            const errorText = await response.text();
+            console.error(`❌ Error con modelo ${model}:`, response.status, response.statusText, errorText);
+            lastError = `${model}: ${response.status} - ${errorText}`;
+            // Continuar con el siguiente modelo
+          }
+        } catch (error) {
+          console.error(`❌ Error de conexión con modelo ${model}:`, error);
+          lastError = `${model}: ${error.message}`;
+          // Continuar con el siguiente modelo
+        }
+      }
+      
+      // Si llegamos aquí, ningún modelo funcionó
+      throw new Error(`Todos los modelos fallaron. Último error: ${lastError}`);
+      
     } catch (error) {
-      console.log('Error en API directa:', error)
+      console.error('❌ Error completo en API directa:', error);
     }
 
     // Fallback mejorado si ambas APIs fallan
@@ -497,9 +529,9 @@ NO agregues texto fuera del JSON. Solo el objeto JSON completo y válido.`
             className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
           >
             <option value="">-- Selecciona una comunidad --</option>
-            {communities.map(([key, community]) => (
+            {communitiesData.map(([key, community]) => (
               <option key={key} value={key}>
-                {community.name} ({community.prevalence})
+                {community.name} - {community.avgDiagnosisTime} meses promedio
               </option>
             ))}
           </select>
@@ -508,15 +540,31 @@ NO agregues texto fuera del JSON. Solo el objeto JSON completo y válido.`
         {selectedCommunity && (
           <div className="bg-gray-50 rounded-lg p-4 mb-4">
             <h3 className="font-medium text-gray-900 mb-2">📊 Información de la Comunidad</h3>
-            <div className="grid grid-cols-2 gap-4 text-sm">
-              <div><span className="font-medium">Prevalencia:</span> {epofCommunities[selectedCommunity].prevalence}</div>
-              <div><span className="font-medium">Tiempo promedio diagnóstico:</span> {epofCommunities[selectedCommunity].avgDiagnosisTime} meses</div>
-              <div><span className="font-medium">Códigos CIE-10:</span> {epofCommunities[selectedCommunity].codes.join(', ')}</div>
-              <div><span className="font-medium">Especialidades:</span> {epofCommunities[selectedCommunity].commonSpecialties.join(', ')}</div>
-            </div>
-            <p className="text-sm text-gray-600 mt-2">
-              <span className="font-medium">Descripción:</span> {epofCommunities[selectedCommunity].description}
-            </p>
+            {(() => {
+              const selectedCommunityData = communitiesData.find(([key]) => key === selectedCommunity)
+              if (!selectedCommunityData) return null
+              const community = selectedCommunityData[1]
+              return (
+                <div>
+                  <div className="grid grid-cols-2 gap-4 text-sm">
+                    <div><span className="font-medium">Tiempo promedio diagnóstico:</span> {community.avgDiagnosisTime} meses</div>
+                    <div><span className="font-medium">Índice odisea:</span> {community.insights.indice_odisea}</div>
+                    <div><span className="font-medium">Códigos CIE-10:</span> {community.codes.join(', ')}</div>
+                    <div><span className="font-medium">Especialidades:</span> {community.commonSpecialties.join(', ')}</div>
+                  </div>
+                  <p className="text-sm text-gray-600 mt-2">
+                    <span className="font-medium">Descripción:</span> {community.description}
+                  </p>
+                  <div className="mt-3 bg-blue-50 p-3 rounded">
+                    <p className="text-sm font-medium text-blue-900">Insights del análisis:</p>
+                    <p className="text-xs text-blue-700">
+                      Eventos previos promedio: {community.insights.eventos_previos_promedio} | 
+                      Diagnósticos comunes: {community.insights.diagnosticos_inespecificos_comunes.join(', ')}
+                    </p>
+                  </div>
+                </div>
+              )
+            })()}
           </div>
         )}
 
