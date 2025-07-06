@@ -137,11 +137,16 @@ NO agregues texto fuera del JSON. Solo el objeto JSON completo y válido.`;
 
     // Intentar con API directa de Anthropic
     try {
+      const apiKey = import.meta.env.VITE_ANTHROPIC_API_KEY;
+      if (!apiKey) {
+        throw new Error('API key no configurada');
+      }
+      
       const response = await fetch('https://api.anthropic.com/v1/messages', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': 'TU_API_KEY_AQUI', // Reemplazar con tu API key
+          'x-api-key': apiKey,
           'anthropic-version': '2023-06-01'
         },
         body: JSON.stringify({
