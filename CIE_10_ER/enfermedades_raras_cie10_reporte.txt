@@ -1,0 +1,53 @@
+REPORTE DETALLADO DE EXTRACCIÓN CIE-10
+==================================================
+
+Archivo original: enfermedades_raras_cie10.csv
+Total registros originales: 964
+Total registros limpios: 964
+Códigos CIE-10 válidos: 964
+Códigos únicos: 384
+Enfermedades sin código: 0
+
+CÓDIGOS MÁS FRECUENTES:
+------------------------------
+A281: 1 veces
+A483: 1 veces
+A488: 1 veces
+A771: 1 veces
+A810: 2 veces
+A811: 1 veces
+A818: 1 veces
+B372: 1 veces
+B810: 1 veces
+C251: 1 veces
+C300: 1 veces
+C402: 1 veces
+C419: 1 veces
+C741: 1 veces
+C759: 1 veces
+C767: 1 veces
+C786: 1 veces
+C840: 2 veces
+C841: 1 veces
+C880: 1 veces
+
+DISTRIBUCIÓN POR CATEGORÍAS:
+------------------------------
+E** (Enfermedades endocrinas y metabólicas): 354 códigos
+D** (Neoplasias benignas y sangre): 189 códigos
+G** (Enfermedades del sistema nervioso): 184 códigos
+H** (Enfermedades de órganos sensoriales): 46 códigos
+M** (Enfermedades del sistema musculoesquelético): 44 códigos
+L** (Enfermedades de la piel): 37 códigos
+K** (Enfermedades del sistema digestivo): 23 códigos
+C** (Neoplasias malignas): 17 códigos
+P** (Afecciones del período perinatal): 12 códigos
+Q** (Malformaciones congénitas): 12 códigos
+F** (Trastornos mentales y del comportamiento): 11 códigos
+N** (Enfermedades del sistema genitourinario): 11 códigos
+J** (Enfermedades del sistema respiratorio): 9 códigos
+A** (Enfermedades infecciosas y parasitarias): 8 códigos
+T** (Traumatismos y envenenamientos): 3 códigos
+B** (Enfermedades infecciosas y parasitarias): 2 códigos
+R** (Síntomas y signos anormales): 1 códigos
+I** (Enfermedades del sistema circulatorio): 1 códigos

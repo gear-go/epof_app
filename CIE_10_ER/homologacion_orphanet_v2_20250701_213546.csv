@@ -1,0 +1,11 @@
+Número,Nombre_Enfermedad,CIE10_Colombia,Estado_Búsqueda,Término_Búsqueda,Códigos_Orphá,CIE10_Orphanet,Coincidencia_Exacta,Similitud_CIE10,Nombres_Encontrados,Observaciones
+1,3MC Sindrome de Deficiencia COLEC11,Q878,NO_ENCONTRADA,,,,False,0.0,,Código corregido de 0878 a Q878
+2,3-metilcrotonil glicinuria,E711,NO_ENCONTRADA,,,,False,0.0,,
+3,Sindrome Ablefaron macrostomia,Q870,NO_ENCONTRADA,,,,False,0.0,,Código corregido de 0870 a Q870
+4,Abscesos asépticos sensibles a corticosteroides,D898,NO_ENCONTRADA,,,,False,0.0,,
+5,Sindrome de Acalasia microcefalia,Q395,NO_ENCONTRADA,,,,False,0.0,,Código corregido de 0395 a Q395
+6,Acalasia primaria,K220,NO_ENCONTRADA,,,,False,0.0,,
+7,Acatalasemia,E803,NO_ENCONTRADA,,,,False,0.0,,
+8,Aceruloplasminemia,Q230,NO_ENCONTRADA,,,,False,0.0,,Código corregido de 0230 a Q230
+9,Acidemia 3-0H-3ME-glutarica,E723,NO_ENCONTRADA,,,,False,0.0,,
+10,Acidemia butirica,E711,NO_ENCONTRADA,,,,False,0.0,,

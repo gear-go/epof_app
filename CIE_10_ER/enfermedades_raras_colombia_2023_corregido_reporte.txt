@@ -1,0 +1,1078 @@
+REPORTE DE CORRECCIONES - ENFERMEDADES RARAS COLOMBIA 2023
+============================================================
+
+Archivo fuente: enfermedades_raras_huerfanas_listado_2023_colombia.txt
+Archivo generado: enfermedades_raras_colombia_2023_corregido.csv
+Total de enfermedades: 2249
+Correcciones 0→Q: 1041
+Códigos válidos: 2179
+Sin código: 44
+Códigos únicos: 641
+
+CORRECCIONES REALIZADAS (0→Q):
+----------------------------------------
+0878 → Q878: 3MC Sindrome de Deficiencia COLEC11
+0870 → Q870: Sindrome Ablefaron macrostomia
+0395 → Q395: Sindrome de Acalasia microcefalia
+0230 → Q230: Aceruloplasminemia
+0713 → Q713: Acidemia succinica
+0713 → Q713: Acidosis láctica
+0770 → Q770: Acondrogénesis
+0774 → Q774: Acondroplasia
+0774 → Q774: Acondroplasia severa - retraso del desarrollo - acantosis nigricans
+0688 → Q688: Acortamiento congénito de fiqamento costocoracoide
+0758 → Q758: Acrania
+0870 → Q870: Acrocefalosindactilia (termino genérico)
+0870 → Q870: Acrocraneofacial disostosis
+0785 → Q785: Acroesquifodisplasia metafisaria
+0870 → Q870: Acromeqaloide, facies
+0828 → Q828: AD-DKC (Mutación en TERC)
+0934 → Q934: AD-DKC (Mutacion en TERT)
+0878 → Q878: Afalanqia hemivertebras
+0872 → Q872: Afalangia sindactilia microcefalia
+0870 → Q870: Agammaglobulinemia - microcefalia - craneosinostosis - dermatitis severa
+0878 → Q878: Agenesia de cuerpo calloso microcefalia talla baja
+0991 → Q991: Agenesia gonadal
+0450 → Q450: Agenesia parcial de páncreas
+0800 → Q800: Agenesia renal bilateral
+0321 → Q321: Agenesia traqueal
+0872 → Q872: Aglosia adactilia
+0878 → Q878: Agnatia holoprosencefalia situs inversus
+0560 → Q560: Alfa talasemia - déficit intelectual ligado al cromosoma X
+0479 → Q479: ALPS-FASLG
+0730 → Q730: Amelia, autosómica recesiva
+0743 → Q743: Amioplasia congénita
+0785 → Q785: Anadisplasia metafisaria
+0582 → Q582: Anemia de cuerpos de Heinz
+0610 → Q610: Anemia de Fanconi
+0552 → Q552: Anemia hemolitica debido a Déficit de piruvato quinasa de los qlobulos rojos
+0588 → Q588: Anemia hemolitica letal anomalias genitales
+0553 → Q553: Anemia hemolitica por Déficit de adenilato quinasa
+0552 → Q552: Anemia hemolitica por Déficit de glucosa fosfato isomerasa
+0551 → Q551: Anemia hemolitica por Déficit de qlutation reductasa
+0552 → Q552: Anemia hemolitica, no esferocitica, por Déficit de hexoquinasa
+0508 → Q508: Anemia microcitica con sobrecarga hepatica de hierro
+0640 → Q640: Anemia sideroblastica ligada al cromosoma X
+0640 → Q640: Anemia sideroblastica ligada al cromosoma X con ataxia
+0000 → Q000: Anencefalia/exencefana aislada
+0878 → Q878: Anestesia corneal anomalias retinianas sordera
+0841 → Q841: Angioedema hereditario
+0180 → Q180: Angioma en racimo
+0278 → Q278: Angiomatosis cutanea y digestiva
+0131 → Q131: Aniridia
+0878 → Q878: Aniridia agenesia renal retraso psicomotor
+0878 → Q878: Aniridia ausencia de rotula
+0131 → Q131: Aniridia ptosis retraso mental obesidad
+0044 → Q044: Anoftalmia - insuficiencia hipotalamo-pituitaria
+0878 → Q878: Anoftalmia - megalocomea - cardiopatia - anomalias esqueleticas
+0112 → Q112: Anoftalmia - microftalmia, aislada
+0878 → Q878: Anoftalmia - microftalmia, atresia esofagica
+0878 → Q878: Anomalia acro-pecto-renal
+0138 → Q138: Anomalia de Axenfeld-Rieger - hidrocefalia - esqueleto anormal
+0878 → Q878: Anomalia de Poland
+0248 → Q248: Anomalia de Uhl
+0870 → Q870: Anomalias auriculares - fisura labial con o sin fisura palatina - anomalias oculares
+0870 → Q870: Anomalias auriculo-oculares, fisura labial
+0288 → Q288: Anomalías cardíacas - heterotaxia
+0870 → Q870: Anomalias cráneo digitales retraso mental
+0798 → Q798: Anomalías de la osificación - retraso del desarrollo sicomotor
+0878 → Q878: Anomalias del arco aórtico- dismorfismo - Déficit intelectual
+0843 → Q843: Anoniquia con pigmentación de los pliegues de flexión .
+0878 → Q878: Anoniquia microcefalia
+0078 → Q078: Anosmia congénita aislada
+0878 → Q878: Anquiloblefaron filiforme - imperforación anal
+0872 → Q872: Anquilosis de pulgares braquidactilia retraso mental
+0878 → Q878: Anquilosis del estribo con ailgar y dedo gordo del pie anchos
+0383 → Q383: Anquilosis glosopalatina
+0848 → Q848: Aplasia cutis — miopía
+0848 → Q848: Aplasia cutis congénita - linfangiectasia intestinal
+0848 → Q848: Aplasia cutis congénita de miembros forma recesiva
+0738 → Q738: Aplasia de peroné ectrodactilia
+0610 → Q610: Aplasia medular idiopática
+0738 → Q738: Aplasia tibial - ectrodactilia
+0748 → Q748: Aqueiropodia
+0878 → Q878: Aracnodactilia osificación anormal retraso mental
+0878 → Q878: Aracnodactilia retraso mental dismorfia
+0828 → Q828: AR-DKC (Mutación en NOLA2)
+0828 → Q828: AR-DKC (Mutación en NOLA3 )
+0935 → Q935: AR-DKC (Mutación en RTEL1)
+0811 → Q811: AR-HIES (Síndrome de Hiper IgE) DOCK8
+0301 → Q301: Arrinia
+0870 → Q870: Arrinia atresia de coanas microftalmia
+0897 → Q897: Artroqriposis - disfunción renal - colestasis
+0688 → Q688: Artrocifiposis - hiperqueratosis, forma letal
+0688 → Q688: Artrogriposis distal tipo 6
+0878 → Q878: Artrogriposis múltiple congénita - cara de silbido
+0688 → Q688: Artrogriposis no especificado
+0878 → Q878: Asociación MURCS
+0890 → Q890: Asplenia congénita aislada (Mutación in RPSA)
+0788 → Q788: Atelosteogénesis I
+0775 → Q775: Atelosteogénesis 11
+0788 → Q788: Atelosteogénesis 111
+0442 → Q442: Atresia biliar
+0300 → Q300: Atresia de coanas
+0878 → Q878: Atresia de coanas - sordera - cardiopatía
+0419 → Q419: Atresia de intestino delgado
+0410 → Q410: Atresia duodenal
+0224 → Q224: Atresia tricúspide
+0128 → Q128: Atrofia muscular espinal - malformación de Dandy- Walker - cataratas
+0120 → Q120: Atrofia muscular espinal proximal infantil, autosómica dominante
+0875 → Q875: Auriculo-osteo-displasia
+0828 → Q828: Ausencia de dermatogifos sindactilia miliar
+0858 → Q858: Autismo, mancha en vino de Oporto
+0798 → Q798: Bandas amnióticos familiares
+0870 → Q870: Blefarochalasia labio doble
+0878 → Q878: Blefarofimosis - ptosis - esotropia - sindactilia estatura baja
+0158 → Q158: Blefaroptosis miopia ectopia lentis
+0750 → Q750: Braquicefalia aislada
+0878 → Q878: Braquidactilia - nistagmo - ataxia cerebelar
+0431 → Q431: Braquidactilia de Hirschsprung
+0738 → Q738: Braquidactilia hipertensión arterial
+0738 → Q738: Braquidactilia no especificada
+0738 → Q738: Braquidactilia preaxial hallux varus
+0738 → Q738: Braquidactilia tipo A5
+0738 → Q738: Braquidactilia tipo A6 (Síndrome de Osebold-Remondini)
+0738 → Q738: Braquidactilia tipo A7 (braquidactilia tipo Smorgasbord)
+0870 → Q870: Braquitelefalangia - dismorfismo - Síndrome de Kallmann
+0841 → Q841: Cabello lanoso- hipotricos s - labio inferior evertido - orejas prominentes
+0938 → Q938: Calcificaciones de plexos coroideos, forma infantil
+0938 → Q938: Calcificaciones talámicas simétricas
+0238 → Q238: Calcinosis bilateral estriato-pálido-dentada
+0878 → Q878: Campomeha Upo Cumminq
+0748 → Q748: Camptobraquidactilia
+0872 → Q872: Camptodactilia - hiperplasia del tejido fibroso - displasia esquelética
+0872 → Q872: Camptodactilia - talla alta - escoliosis - pérdida de audición
+0873 → Q873: Camptodactilia no especificada
+0681 → Q681: Camptodactilia taurinuria
+0871 → Q871: Camptodactilia tipo Guadalajara tipo 1
+0871 → Q871: Camptodactilia tipo Guadalajara tipo 2
+0878 → Q878: Cardiomiopatia - anomalías renales
+0872 → Q872: Cardiopatía congénita - miembros cortos
+0112 → Q112: Cataratas ataxia sordera
+0138 → Q138: Cataratas microcórnea
+0878 → Q878: Cataratas miocardiopatia
+0878 → Q878: Cataratas nefropatia encefalopatia
+0878 → Q878: Cataratas retraso mental hipogonadismo
+0120 → Q120: Cataratas-glaucoma
+0875 → Q875: Ceguera - escoliosis- aracnodactilia
+0875 → Q875: Ceguera cortica' retraso mental polidactilia
+0251 → Q251: Coartación atípica de aorta
+0820 → Q820: Colestasis linfedema
+0870 → Q870: Coloboma del iris con ptosis - Déficit intelectual
+0122 → Q122: Coloboma fisura labiopalafina retraso mental
+0871 → Q871: Coloboma macular tipo b braquidactilia
+0878 → Q878: Coloboma microftalmia cardiopatía sordera
+0130 → Q130: Coloboma ocular
+0448 → Q448: Complejo de Carney
+0728 → Q728: Complejo fémur-peroné-cubito
+0878 → Q878: Complejo miembros-pared abdominal
+0248 → Q248: Comunicación interauricular con defecto de conducción
+0871 → Q871: Condrodisplasia - trastorno del desarrollo sexual
+0878 → Q878: Condrodisplasia metafisaria - retinitis pigmentosa
+0785 → Q785: Condrodisplasia metafisaria tipo Jansen
+0785 → Q785: Condrodisplasia metafisaria tipo Kaitila
+0773 → Q773: Condrodisplasia punctata ligada al cromosoma X dominante
+0773 → Q773: Condrodisplasia punctata, tipo rizoméfico
+0788 → Q788: Condrodisplasia recesiva letal
+0788 → Q788: Condrodisplasia tipo Blomstrand
+0875 → Q875: Conodisplasia craneofacial
+0878 → Q878: Contracturas displasia ectodérmica fisura labio palatina
+0828 → Q828: Coroidea atrofia alopecia
+0878 → Q878: Coroideremia - obesidad - sordera
+0875 → Q875: Cráneo ectodérmica displasia
+0878 → Q878: Craneosinostosis - enfermedad cardiaca congénita - Déficit intelectual
+0878 → Q878: Craneosinostosis - hidrocefalia - malformación de Chiari I - sinostosis radioulnar
+0078 → Q078: Craneosinostosis alopecia ventriculo cerebral anormal
+0872 → Q872: Craneosinostosis aplasia de peroné
+0878 → Q878: Craneosinostosis aplasia radial tipo lmaizumi
+0870 → Q870: Craneosinostosis braquidactilia
+0870 → Q870: Craneosinostosis calcificaciones intracraneales
+0758 → Q758: Craneosinostosis tipo Boston
+0870 → Q870: Craneosinostosis tipo Philadelphia
+0308 → Q308: Craniorrinia
+0031 → Q031: Craniosinostosis - malformación de Dandy-Walker - hidrocefalia
+0828 → Q828: Crecimiento excesivo - deficiencia de aprendizaje
+0891 → Q891: Crioqlobulinemia mixta
+0588 → Q588: Criohidrodtosis hereditaria con estomatina reducida
+0878 → Q878: Criptomicrotia braquidactilia anomalias de dermatoqlifos
+0932 → Q932: Cromosoma 1 en anillo
+0932 → Q932: Cromosoma 10 en anillo
+0932 → Q932: Cromosoma 14 en anillo
+0932 → Q932: Cromosoma 17 en anillo
+0932 → Q932: Cromosoma 18 en anillo
+0932 → Q932: Cromosoma 20 en anillo
+0878 → Q878: Cutis gyrata - acantosis niqricans - craneosinostosis
+0828 → Q828: Cutis laxa
+0828 → Q828: Cutis marmorata telanqiectasia congénita
+0828 → Q828: Cutis verticis qyrata - Déficit mental
+0788 → Q788: Dacriocistitis osteopoiquilosis
+0878 → Q878: Dandy Walker polidactilia postaxial
+0738 → Q738: Defecto de rayo cubital / peroneo, con braquidactilia
+0808 → Q808: Deficiencia aislada de subclases de IgG
+0818 → Q818: Deficiencia de 0X40
+0728 → Q728: Deficiencia de UNC119
+0812 → Q812: Deficiencia de ye
+0805 → Q805: Deficiencia de AID
+0841 → Q841: Deficiencia de C1 inhibidor
+0841 → Q841: Deficiencia de C1qA
+0841 → Q841: Deficiencia de C2
+0841 → Q841: Deficiencia de C3
+0841 → Q841: Deficiencia de C4a
+0841 → Q841: Deficiencia de C6
+0841 → Q841: Deficiencia de C7
+0841 → Q841: Deficiencia de C8a
+0838 → Q838: Deficiencia de CD19
+0812 → Q812: Deficiencia de CD25
+0812 → Q812: Deficiencia de CD3E (Epsilon)
+0812 → Q812: Deficiencia de CD3/ (dseta)
+0805 → Q805: Deficiencia de CD40
+0805 → Q805: Deficiencia de CD40 ligando
+0841 → Q841: Deficiencia de CD59
+0838 → Q838: Deficiencia de CD81
+071X → Q71X: Deficiencia de CGD, p22
+0848 → Q848: Deficiencia de CGD, XL
+0898 → Q898: Deficiencia de FADO
+0848 → Q848: Deficiencia de ICF2
+0831 → Q831: Deficiencia de ICOS
+0818 → Q818: Deficiencia de Iga
+0800 → Q800: Deficiencia de 10
+0818 → Q818: Deficiencia de IKAROS
+0848 → Q848: Deficiencia de IKBKB
+0822 → Q822: Deficiencia de IL-21R
+0812 → Q812: Deficiencia de IL-7Ra
+0728 → Q728: Deficiencia de ITK
+0812 → Q812: Deficiencia de JAK3
+0828 → Q828: Deficiencia de la hélice alada (Desnudo)
+0811 → Q811: Deficiencia de LCK
+0818 → Q818: Deficiencia de LRBA
+0818 → Q818: Deficiencia de MAGT1
+0818 → Q818: Deficiencia de MALT1
+0878 → Q878: Deficiencia de MASP1
+0841 → Q841: Deficiencia de MASP2
+0688 → Q688: Deficiencia de MBL
+0761 → Q761: Deficiencia de Munc13-4 (FHL3)
+0761 → Q761: Deficiencia de Munc18-2 (FI-L5)
+0848 → Q848: Deficiencia de MyD88
+0828 → Q828: Deficiencia de P14
+0858 → Q858: Deficiencia de PI3 kinasa
+0552 → Q552: Deficiencia de PI3K5 kinasa, activación (mutación en PIK3CD, P13KD)
+0489 → Q489: Deficiencia de PMS2
+0841 → Q841: Deficiencia de properdin
+0841 → Q841: Deficiencia de proteina relacionada con el Factor H
+0728 → Q728: Deficiencia de Rac2
+0811 → Q811: Deficiencia de RAG1
+0923 → Q923: Deficiencias distales de las extremidades - síndrome de micrognatia
+0848 → Q848: Déficit de adhesión leucodtaria tipo II
+0878 → Q878: Déficit intelectual tipo Birk-Barel
+0840 → Q840: Degeneración macular juvenil hipotriquia
+0935 → Q935: Deleción 22q13
+0935 → Q935: Deleción 5q35
+0935 → Q935: Deleción 8p
+0935 → Q935: Deleción terminal 6q
+0875 → Q875: Dentinogénesis imperfecta - estatura baja - sordera - retraso mental
+0872 → Q872: Derivados mullerianos - linfangiectasia - pofidactiba
+0828 → Q828: Dermato osteolisis tipo Kirghize
+0828 → Q828: Dermopatía restrictiva letal
+0878 → Q878: Desmosterolosis
+0138 → Q138: Despiqmentación aguda bilateral del iris
+0450 → Q450: Diabetes mellitus, neonatal permanente - agenesia pancreática y cerebelosa
+0611 → Q611: Diabetes, neonatal - grupo hipotiroidismo congénito - glaucoma congénito - fibrosis hepática - riñones poliquísticos
+0788 → Q788: Diafano-espondilodisostosis
+0878 → Q878: Diarrea intratable - atresia coanal - anomalías en los ojos
+0874 → Q874: Dilatación aórtica -hipermovilidad de las articulaciones - tortuosidad arterial
+0878 → Q878: Discondrosteosis nefropatia
+0878 → Q878: Disección arterial con lentiginosis
+0878 → Q878: Disgenesia caudal familiar
+0048 → Q048: Disgenesia del cuerpo calloso compleja ligada al cromosoma X
+0561 → Q561: Disqenesia qonadal 46 XV - neuropatia motora y sensorial
+0991 → Q991: Disgenesia gonadal anomalias múltiples
+0991 → Q991: Disqenesia qonadal, tipo XX
+0750 → Q750: Disinostosis craneofacial
+0743 → Q743: Dismorfia diqitotalar
+0878 → Q878: Dismorfia facial macrocefalia miopia Dandy Walker
+0878 → Q878: Dismorfismo - estatura baja - sordera - pseudohermafroditismo
+0751 → Q751: Disostosis acro fronto facio nasal
+0754 → Q754: Disostosis acrofacial autosómica recesiva
+0754 → Q754: Disostosis acrofacial forma catania
+0754 → Q754: Disostosis acrofacial no especificada
+0754 → Q754: Disostosis acrofacial postaxial
+0754 → Q754: Disostosis acrofacial tipo Nager
+0754 → Q754: Disostosis acrofacial tipo Patagonia
+0754 → Q754: Disostosis acrofacial tipo Rodríguez
+0754 → Q754: Disostosis faciocranenana hipomandibutar
+0748 → Q748: Disostosis humero espinal
+0754 → Q754: Disostosis mandibulofadal ligada al cromosoma X
+0778 → Q778: Displasia acromesomelica tipo Brahimi Bacha
+0788 → Q788: Displasia acromesomélica tipo Hunter - Thompson
+0778 → Q778: Displasia acromesomélica tipo Maroteaux
+0778 → Q778: Displasia acromicrica
+0681 → Q681: Displasia acropectovertebral
+0871 → Q871: Displasia campomélica
+0777 → Q777: Displasia checa, tipo metatarsal
+0871 → Q871: Displasia cráneo fronto nasal.
+0758 → Q758: Displasia craneolenticulosutural
+0788 → Q788: Displasia cráneo-metafisaria
+0773 → Q773: Displasia de Astley-Kendall
+0871 → Q871: Displasia de Boomerang
+0773 → Q773: Displasia de Greenberg
+0778 → Q778: Displasia de Pacman
+0788 → Q788: Displasia de Singleton-Merten
+0878 → Q878: Displasia de timo - riñón - ano - pulmón
+0138 → Q138: Displasia del iris - hipertelorismo - sordera
+0828 → Q828: Displasia dermo facial focal -
+0782 → Q782: Displasia ectodérmica - con inmunoDéficit anhidrótico
+0810 → Q810: Displasia ectodermica - Sindrome de fragilidad de la piel
+0828 → Q828: Displasia ectodermica "pura" tipo cabello-uña
+0878 → Q878: Displasia ectodermica ceguera
+0828 → Q828: Displasia ectodérmica hidrótica tipo Christianson Fourie
+0828 → Q828: Displasia ectodérmica hidrótica tipo Halal
+0824 → Q824: Displasia ectodérmica hipohidrosis grupo hipotiroidismo
+0824 → Q824: Displasia ectodérmica hipohidrótica, forma dominante
+0823 → Q823: Displasia ectodérmica no especificada
+0824 → Q824: Displasia ectodérmica odonto microniquial
+0824 → Q824: Displasia ectodérmica tipo Berlin
+0773 → Q773: Displasia epifisaria múltiple
+0788 → Q788: Displasia epifisiaria-falánqica en forma de ángel
+0777 → Q777: Displasia espondilo encondral
+0777 → Q777: Displasia espondiloepifisaria congénita
+0777 → Q777: Displasia espondiloepifisaria tardia
+0777 → Q777: Displasia espondiloepifisaria tardía tipo Kohn
+0777 → Q777: Displasia espondiloepifisaria tipo Byers
+0777 → Q777: Displasia espondiloepifisaria tipo Cantu
+0777 → Q777: Displasia espondiloepifisaria tipo MacDermot
+0777 → Q777: Displasia espondiloepifisaria tipo Nishimura
+0777 → Q777: Displasia espondiloepifisaria tipo Reardon
+0778 → Q778: Displasia espondiloepimetafisaria - antebrazos arqueados - dismorfismo facial
+0777 → Q777: Displasia espondiloepimetafisaria - dentición anormal
+0777 → Q777: Displasia espondiloepimetafisaria - hipotricosis
+0778 → Q778: Displasia espondiloepimetafisaria axial
+0778 → Q778: Displasia espondiloepimetafisaria tipo A4
+0777 → Q777: Displasia espondiloepimetafisaria tipo Biectanski
+0777 → Q777: Displasia espondiloepimetafisaria tipo Genevieve
+0778 → Q778: Displasia espondiloepimetafisaria tipo Golden
+0778 → Q778: Displasia espondilometafisaria
+0777 → Q777: Displasia espondilometafisaria con inmunodeficiencia combinada
+0778 → Q778: Displasia espondilometafisaria -distrofia de conosbastones "
+0777 → Q777: Displasia espondilometafisaria tipo Acirecan
+0778 → Q778: Displasia espondilometafisaria tipo Kozlowski
+0789 → Q789: Displasia esquelética no especificada
+0785 → Q785: Displasia frontometafisaria
+0871 → Q871: Displasia geleofísica
+0777 → Q777: Displasia inmuno ósea de Schimke
+0778 → Q778: Displasia Kniest-like letal
+0782 → Q782: Displasia letal osteosclerótica de hueso
+0875 → Q875: Displasia mandibuloacra
+0871 → Q871: Displasia mesomélica hoyuelos cutáneos
+0788 → Q788: Displasia microcefálica osteodisplásica de tipo Saul Wilson
+0878 → Q878: Displasia oculodentodiqital
+0870 → Q870: Displasia óculo-oto-fadal
+0778 → Q778: Displasia ósea letal tipo Holmgren Forsell
+0872 → Q872: Displasia ósea terminal - defectos pigmentarios
+0777 → Q777: Displasia oto-espondilo-megaepifisaria
+0788 → Q788: Displasia pseudodiastrófica
+0619 → Q619: Displasia renal-hepática-pancreática - quistes de Dandy-Walker
+0824 → Q824: Displasia trico odonto oniquial
+0828 → Q828: Disqueratosis congénita
+0248 → Q248: Disquinesia paroxistica no cinesigénica (PNKD)
+0241 → Q241: Distonia 16
+0241 → Q241: Distonia de torsión de aparición temprana
+0248 → Q248: Distonia dopa-sensible
+0243 → Q243: Distonia focal
+0241 → Q241: Distonia miocIónica 15
+0241 → Q241: Distonia no especificada
+0241 → Q241: Distonia-parkinsonismo de inicio rápido
+0248 → Q248: Distonias mixtas
+0818 → Q818: Distrofia ampollosa hereditaria, tipo macular
+0710 → Q710: Distrofia facioescapulohumeral
+0711 → Q711: Distrofia miotánica de Steinert
+0810 → Q810: Distrofia muscular autosómica recesiva ligada a una epidermólisis ampollosa
+0712 → Q712: Distrofia muscular congénita
+0712 → Q712: Distrofia muscular congénita con Déficit de integrina
+0712 → Q712: Distrofia muscular congénita de Ullrich
+0712 → Q712: Distrofia muscular congénita por Déficit de láminas A/C
+0712 → Q712: Distrofia muscular congénita tipo 1A
+0710 → Q710: Distrofia muscular congénita tipo Fukuyama
+0710 → Q710: Distrofia muscular de cinturas
+0710 → Q710: Distrofia muscular de cinturas autosómica dominante tipo 1A
+0710 → Q710: Distrofia muscular de cinturas autosómica dominante tipo 1D
+0710 → Q710: Distrofia muscular de cinturas autosómica dominante tipo lE
+0710 → Q710: Distrofia muscular de cinturas autosómica dominante tipo 1F
+0710 → Q710: Distrofia muscular de cinturas autosómica dominante tipo 10
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2A
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2C
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2D
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2E
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2F
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 20
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 21
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2L
+0710 → Q710: Distrofia muscular de cinturas autosómica recesiva tipo 2M
+0710 → Q710: Distrofia muscular de Duchenne y Becker
+0710 → Q710: Distrofia muscular de Emery Dreifuss
+0710 → Q710: Distrofia muscular no especificada
+0710 → Q710: Distrofia muscular óculo gastrointestinal
+0710 → Q710: Distrofia muscular oculofaringea
+0710 → Q710: Distrofia muscular tipo Duchenne
+0923 → Q923: Duplicación 12p
+0923 → Q923: Duplicación 6p
+0748 → Q748: Duplicación de la pierna y del pie en espejo
+0158 → Q158: Ectopia de cristalino coriorefinana distrofia miopía
+0121 → Q121: Ectopia de cristalino forma familiar
+0824 → Q824: Ectrodactilia displasia ectodérmica
+0868 → Q868: Embriopatia por aminopterina
+0868 → Q868: Embriopatia por antitiroideos
+0868 → Q868: Embriopatia por talidomida
+0871 → Q871: Enanismo de MUL1BREY
+0775 → Q775: Enanismo diastrófico
+0871 → Q871: Enanismo hiperostótico de Lenz-Majewski
+0778 → Q778: Enanismo metatrópico
+0871 → Q871: Enanismo microcefálico osteodisplásico primordial
+0878 → Q878: Enanismo retraso mental anomalias oculares fisura labiopalatina
+0771 → Q771: Enanismo tanatofórico
+0784 → Q784: Encondromatosis
+0848 → Q848: Enfermedad autoinfiamatoria debido a deficiencia de antagonista del receptor de interleuquina 1
+0446 → Q446: Enfermedad de Caroli
+0751 → Q751: Enfermedad de Crouzon
+0828 → Q828: Enfermedad de Darier
+0360 → Q360: Neuromielitis óptica espectro
+0763 → Q763: Enfermedad de Erdheim-Chester
+0511 → Q511: Enfermedad de Grfisbeck-Imerslund
+0431 → Q431: Enfermedad de Hirschsprunq
+0122 → Q122: Enfermedad de Kennedy
+0808 → Q808: Enfermedad de Netherton
+0785 → Q785: Enfermedad de Pyle
+0858 → Q858: Enfermedad de von Hippel-Lindau
+0878 → Q878: Epilepsia microcefalia displasia esquelética
+0750 → Q750: Escafocefalia aislada
+0878 → Q878: Esclerosis endosteal - Hipoplasia cerebelar
+0851 → Q851: Esclerosis tuberosa
+0777 → Q777: Espondyloenchondro-displasia con desrequlación inmune (SPENCD)
+0046 → Q046: Esquisencefalia
+0221 → Q221: Estenosis pulmonar valvular
+0875 → Q875: Fusión posterior de las vértebras lumbosacras - blefaroptosis
+0560 → Q560: Hermafroditismo verdadero XX
+0790 → Q790: Hernia diafragmática
+0878 → Q878: Hernia diafragmática anomalía de miembros
+0893 → Q893: Heterotaxia
+0878 → Q878: Hidrocefalia - displasia costoventral - anomalía de Sprengel
+0878 → Q878: Hidrocefalia nefropatia escleróticas azules
+0878 → Q878: Hidrocefalia talla alta hiperlaxitud
+0828 → Q828: Hiperqueratosis palmoplantar sordera
+0870 → Q870: Hipertelorismo, tipo Teebi
+0878 → Q878: Iiipertermia maligna artrogrfflosis torticolis
+0842 → Q842: Hipertricosis cubital tafia baja
+0842 → Q842: Hipertricosis lanuqinosa congénita
+0774 → Q774: Hipocondroplasia
+0878 → Q878: Hipogonadismo hipogonadotrópico - retinitis pigmentada
+0878 → Q878: Hipoparatiroidismo - sordera - enfermedad renal
+0828 → Q828: Hipoplasia dérmica focal
+0043 → Q043: Hipoplasia olivopontocerebelosa letal
+0878 → Q878: Hipoplasia pancreática diabetes cardiopatia
+0043 → Q043: Hipoplasia pontocerebelosa tipo 4
+0043 → Q043: Hipoplasia pontocerebelosa tipo 5
+0043 → Q043: Hipoplasia pontocerebelosa tipo 6
+0828 → Q828: Hipoqueratosis circunscrita palmo-plantar
+0870 → Q870: Hipospadias - hipertelorismo - coloboma y sordera
+0840 → Q840: Hipotricosis hereditaria de Mane Unna
+0431 → Q431: Hirschsprung - hipoplas a de uñas - dismorfla
+0431 → Q431: Hirschsprunq polidactilia sordera
+0042 → Q042: Holoprosencefalia
+0878 → Q878: Ictiosis - hepatoesplenomegalia - Degeneración cerebelosa
+0776 → Q776: Ictiosis alopecia ectropión retraso mental
+0808 → Q808: Ictiosis ampollosa de Siemens
+0878 → Q878: Ictiosis congénita microcefalia cuadriplejia
+0804 → Q804: Icifosis congénita tipo feto Arlequín
+0802 → Q802: Ictiosis lamelar
+0801 → Q801: Ictiosis ligada al cromosoma X
+0809 → Q809: Ictiosis no especificada
+0823 → Q823: Incontinentia piqmenti
+0438 → Q438: Inmunodeficiencia con múltiples atresias intestinales (Mutación en TTC7A)
+0254 → Q254: Interrupción del arco aótico
+0828 → Q828: Keratosis tipo Nagashima
+0878 → Q878: Latosterolosis
+0338 → Q338: Linfanqiectasias quísticas pulmonares
+0820 → Q820: Linfedema - anomalía arteriovenosa cerebral
+0878 → Q878: Linfedema - defectos del septo atrial - cambios faciales
+0820 → Q820: Linfedema congénito
+0103 → Q103: Lipoma nasopalpebral - coloboma - telecanto
+0043 → Q043: Lisencefalia debido a mutaciones en TUBA1A
+0043 → Q043: Lisencefalia tipo 2
+0043 → Q043: Lisencefalia tipo III - displasia ósea metacarpiana
+0043 → Q043: Lisencefalia tipo III - secuencia de aquinesia fetal familiar
+0873 → Q873: Macrocefalia - malformación capilar
+0048 → Q048: Macroqiria central bilateral
+0870 → Q870: Macrostomia - papiloma preauricular - oftalmoplejia externa
+0878 → Q878: Malformación cerebral - enfermedad cardiaca congénita
+0225 → Q225: Malformación de Ebstein
+0878 → Q878: Malformaciones del desarrollo - sordera - distonia
+0716 → Q716: Mano hendida - pie hendido
+0878 → Q878: Mano hendida urinarias anomalías espina bífida anomalia de diafragma
+0872 → Q872: Mano hendida, pie hendido, sordera
+0822 → Q822: Mastocitosis
+0822 → Q822: Mastocitosis cutánea
+0822 → Q822: Mastocitosis no especificada
+0638 → Q638: Megacalicosis, congénita
+0048 → Q048: Megalencefalia - polimicrogiria - polidactina postaxial - hidrocefalia
+0782 → Q782: Melorreostosis
+0784 → Q784: Metacondromatosis
+0878 → Q878: Microbraquicefalia ptosis fisura labial
+0878 → Q878: Microcefalia - anomalías digitales - Déficit intelectual
+0878 → Q878: Microcefalia - Déficit intelectual - anomalías falángicas y neurológicas
+0043 → Q043: Microcefalia - polimicrogiria- agenesia del cuerpo calloso
+0878 → Q878: Microcefalia braquidactilia cifoescoliosis
+0878 → Q878: Microcefalia epilepsia retraso mental cardiopatia
+0878 → Q878: Microcefalia fisura palatina autosómico dominante, Síndrome de
+0043 → Q043: Microcefalia hipoplasia pontocerebelosa disquinesia
+0878 → Q878: Microcefalia miocardiopatia
+0935 → Q935: Microdeleción 9q22.3
+0112 → Q112: Microftalmia - atrofia cerebral
+0112 → Q112: Microftalmia con anomalías cerebrales y de las manos
+0112 → Q112: Microftalmia con anomalías de las extremidades
+0112 → Q112: Microftalmia sindrómica debido a una mutación en OTX2
+0878 → Q878: Microgastria anomalia de miembros
+0172 → Q172: Microtia
+0158 → Q158: Microtia - coloboma - imperforación del conducto nasolacrimal
+0871 → Q871: Microtia anomalías esqueléticas talla baja
+0870 → Q870: Microtia bilateral - sordera - paladar hendido
+0935 → Q935: Monosomia 18p
+0934 → Q934: Monosomia 5p
+0935 → Q935: Monosomia distal 10q
+0848 → Q848: MSMD (Deficiencia IFN-yR2 )
+0782 → Q782: Mutación EDA-ID, XL (Deficiencia NEMO)
+0872 → Q872: Nail Patella like enfermedad renal
+0618 → Q618: Nefronoftisis familiar del adulto quadriparesia espástica
+0878 → Q878: Nefropatía sordera hiperparatiroidismo
+0878 → Q878: Nefrosis - sordera - anomalías del tracto urinario y digitales
+0878 → Q878: Neuro musculo esquelético Síndrome tipo chipriota
+0871 → Q871: Neurofibromatosis
+0850 → Q850: Neurofibromatosis tipo familiar es inal
+0825 → Q825: Nevus melanocitico congénito grande
+0825 → Q825: Nevus poroqueratósico del ostio y conducto dérmico ectinos
+0870 → Q870: Oculo cerebro facial Síndrome ti .o Kaufman
+0878 → Q878: Oculo dental Síndrome tipo Rutherfurd
+0824 → Q824: Odonto onico dérmica displasia
+0824 → Q824: Odonto tric,omélica hipohidrótica displasia
+0825 → Q825: Oliqodoncia - taurodoncia - cabello escaso
+0788 → Q788: Omodisplasia
+0792 → Q792: Onfalocele
+0788 → Q788: Opsismodisplasia
+0778 → Q778: Ospteodisplastia, tipo Melnick-Needles
+0873 → Q873: Osteocondrodisplasia hipertncosis
+0786 → Q786: Osteocondromas múltiples
+0748 → Q748: Osteocondromatosis carpotarsiana
+0780 → Q780: Osteocraneoestenosts
+0780 → Q780: Osteogénesis imperfecta
+0878 → Q878: Osteogénesis imperfecta - retinopatia - convulsiones - Déficit intelectual
+0780 → Q780: Osteogénesis imperfecta microcefalia cataratas
+0788 → Q788: Osteopatía estriada esclerosis craneana
+0782 → Q782: Osteopetrosis - hipogammaglobulinemia
+0782 → Q782: Osteopetrosis de Albers-Schbnberg
+0782 → Q782: Osteopetrosis dominante de tipo 1
+0782 → Q782: Osteopetrosis, autosómica recesiva leve, forma intermedia
+0875 → Q875: Osteoporosis pseudoglioma Síndrome
+0999 → Q999: Otras alteraciones cromosómicas no especificadas
+0788 → Q788: Otras atelosteogénesis no especificadas
+0845 → Q845: Paquioniquia congénita
+0770 → Q770: Picnoacondrogénesis
+0788 → Q788: Picnodisostosis
+0841 → Q841: Pili Torti onicodisplasia
+0673 → Q673: Plagiocefalia aislada
+0870 → Q870: Plagiocefalia retraso mental ligado al cromosoma X
+0818 → Q818: Poiquilodermia de Kindler
+0872 → Q872: Polidactilia en espejo - segmentación vertebral anomalias de los miembros
+0611 → Q611: Poliquistosis renal, autosómica y recesiva
+0878 → Q878: Polisindactilia - malformación cardíaca
+0828 → Q828: Poroqueratosis palmoplantar de Mantoux
+0870 → Q870: Problemas de crecimiento - braquidactilia - dismorfismo
+0778 → Q778: Pseudoacondroplasia
+0740 → Q740: Pseudoartrosis congénita de clavícula
+0878 → Q878: Pseudoprogeria
+0828 → Q828: Pseudoxantoma elástico
+0870 → Q870: Pterygium colh - retraso mental - anomalías digitales
+0870 → Q870: Ptosis - estrabismo - pupilas ectópicas
+0748 → Q748: Pulgar trifalángico - braquiectrodactilia
+0748 → Q748: Pulgares en aducción - artogriposis, tipo Christian
+0796 → Q796: Pulgares en aducción - artroqriposis, tipo Dundar
+0878 → Q878: Quadriparesia retraso mental retinitis piqmentaria
+0828 → Q828: Queratoderma palmoplantar - amiotrofia
+0828 → Q828: Queratoderma palmoplantar - Pelo rizado yen espiral
+0560 → Q560: Queratoderma palmoplantar - XX inversión de sexo - predisposición a carcinoma de células escamosas
+0828 → Q828: Queratoderma palmoplantar difuso - acrocianosis
+0828 → Q828: Queratodermia hipotricosis leuconiquia
+0828 → Q828: Queratodermia palmoplantar difusa, tipo Norrbotten dominante
+0871 → Q871: Queratosis folicular enanismo atrofia cerebral
+0828 → Q828: Queratosis palmaris et plantaris - clinodactilia
+0828 → Q828: Queratosis palmoplantar - periodontopatía - onicogriposis
+0878 → Q878: Retinitis pigmentaria sordera hipogenitalismo
+0878 → Q878: Refino hepato endocrinolóqico Sindrome
+0141 → Q141: Retinosquisis ligada al cromosoma X
+0878 → Q878: Retraso en el desarrollo - sordera, tipo Hildebrand
+0878 → Q878: Retraso global del desarrollo - osteopenia - defecto ectodérmico
+0878 → Q878: Retraso mental dismorfia hipogonadismo diabetes mellitus
+0878 → Q878: Retraso mental hipotriquia braquidactilia
+0878 → Q878: Retraso mental ligado al cromosoma X - acromegalia - hiperactividad
+0878 → Q878: Retraso mental ligado al cromosoma X - cubitus valgus - rostro típico
+0878 → Q878: Retraso mental ligado al cromosoma X - epilepsia - contracturas progresivas de las articulaciones - rostro típico
+0878 → Q878: Retraso mental ligado al cromosoma X - hipogammaglobulinemia - deterioro neurológico progresivo
+0878 → Q878: Retraso mental ligado al cromosoma X - hipogonadismo - ictiosis - obesidad - baja estatura
+0878 → Q878: Retraso mental ligado al cromosoma X - hipotonia - dismorfismo facial - comportamiento agresivo
+0878 → Q878: Retraso mental ligado al cromosoma X - macrocefalia - macroorquidismo
+0238 → Q238: Retraso mental ligado al cromosoma X - malformación de Dandy Walker - Enfermedad de los ganglios basales - Convulsiones
+0878 → Q878: Retraso mental ligado al cromosoma X - pubertad precoz - obesidad
+0878 → Q878: Retraso mental ligado al cromosoma X epilepsia psoriasis
+0878 → Q878: Retraso mental ligado al cromosoma X no especificado
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Abidi
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Armfield
+0878 → Q878: Retraso mental ligado al Cromosoma X, de tipo Cantaqrel
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Miles-Carpenter
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Pai
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Reish
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Schimke
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Seemanova
+0878 → Q878: Retraso mental ligado al cromosoma X de tipo Shashi
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Shnmpton
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Siderius
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Snyder
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Stevenson
+0878 → Q878: ' Retraso mental ligado al cromosoma X, de tipo Stocco Dos Santos
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Stoll
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo sudafricano
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Vitale
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Wilson
+0878 → Q878: Retraso mental ligado al cromosoma X, de tipo Wittwer
+0878 → Q878: Retraso mental ligado al cromosoma X, sindromico 7
+0878 → Q878: Retraso mental ligado al cromosoma X, sindromico, debido a la mutación en JARID1C
+0878 → Q878: Retraso mental severo - epilepsia - anomalias anales -hipoplasia de las falanges distales
+0870 → Q870: Retraso mental y del crecimiento - disostosis mandibulo facial - microcefalia - fisura palatina
+0043 → Q043: Romboencefalosinapsis
+0878 → Q878: Sindactilia - telecanto - malformaciones renales y anogenitales
+0704 → Q704: Sindactifia mesoaxial sinostótica con reducción de las falanges
+0709 → Q709: Sindactifia no especificada
+0784 → Q784: Sindactilia tipo Cenani Lenz
+0928 → Q928: Síndrome "cat-eye"
+0878 → Q878: Sindrome 3C
+0871 → Q871: Síndrome 3M
+0040 → Q040: Sindrome acrocalloso
+0870 → Q870: Síndrome acromegaloide hipertricosis
+0740 → Q740: Síndrome acro-pectoral
+0872 → Q872: Síndrome acrorenal recesivo
+0878 → Q878: Síndrome acrorenomandibular
+0878 → Q878: Síndrome acro-reno-ocular
+0872 → Q872: Síndrome ADULT
+0878 → Q878: Síndrome Alport - leiomiomatosis difusa ligado al cromosoma X
+0878 → Q878: Síndrome ANE
+0872 → Q872: Síndrome angio-osteo-hipertrófico
+0878 → Q878: Síndrome AREDYLD
+0878 → Q878: Síndrome Blau (NOD2 or CARD15)
+0878 → Q878: Síndrome blefaro facio esquelético
+0878 → Q878: Síndrome blefaro queilo odóntico
+0870 → Q870: Síndrome blefaro-naso-facial
+0878 → Q878: Síndrome BOR
+0878 → Q878: Síndrome branquio-esqueleto-genital
+0188 → Q188: Síndrome branquio-óculo-facial
+0828 → Q828: Síndrome CEDNIK
+0878 → Q878: Síndrome cerebro costo mandibular
+0870 → Q870: Síndrome cerebro-oculo-nasal
+0824 → Q824: Síndrome CHANDS
+0878 → Q878: Síndrome CHARGE
+0873 → Q873: Sindrome CLAPO
+0778 → Q778: Sindrome Cleidorizomelico
+0878 → Q878: Síndrome CODAS
+0871 → Q871: Síndrome COFS
+0870 → Q870: Sindrome craneofacial-sordera-mano
+0871 → Q871: Síndrome de Aarskog-Scott
+0878 → Q878: Síndrome de Aase-Smith
+0878 → Q878: Síndrome de Abruzzo Erickson
+0040 → Q040: Síndrome de Aicardi
+0447 → Q447: Sindrome de Alaqille
+0878 → Q878: Síndrome de Alport
+0878 → Q878: Sindrome de Alstrom
+0842 → Q842: Síndrome de Ambras
+0531 → Q531: Síndrome de anemia megaloblastica sensible a tiamina
+0998 → Q998: Sindrome de aneuploidia en mosaico variegada
+0874 → Q874: Sindrome de aneurisma aórtico de tipo Loeys-Dietz
+0935 → Q935: Sindrome de Angelman
+0878 → Q878: Síndrome de aniridia - retraso mental
+0878 → Q878: Sindrome de anoftalmia plus
+0898 → Q898: Síndrome de antisintetasas
+0870 → Q870: Síndrome de Antley-Bixler
+0870 → Q870: Sindrome de Apert
+0878 → Q878: Síndrome de Atkin Flaitz Patil Smith
+0878 → Q878: Síndrome de autismo y macrocefalia
+0138 → Q138: Síndrome de Axenfeld-Rieger
+0738 → Q738: Síndrome de Ballard (Braquidactilia tipo B y C combinadas)
+0681 → Q681: Síndrome de Banki
+0870 → Q870: Síndrome de Barber Say
+0878 → Q878: Síndrome de Bardet-Biedl
+0872 → Q872: Síndrome de Bartsocas-Papas
+0828 → Q828: Síndrome de Basan
+0873 → Q873: Síndrome de Beckwith-Wiedemann
+0878 → Q878: Sindrome de Beemer Ertbruggen
+0674 → Q674: Síndrome de Bencze
+0878 → Q878: Sindrome de Berant
+0878 → Q878: Síndrome de Birt-Hogg-Dube
+0878 → Q878: Síndrome de Bjürnstadt
+0998 → Q998: Síndrome de Bloom
+0048 → Q048: Síndrome de Bonneman-Meinecke-Reich
+0824 → Q824: Síndrome de Book
+0824 → Q824: Sindrome de Bork-Stender-Schmidt
+0878 → Q878: Síndrome de Borrone di Rocco Crovato
+0878 → Q878: Síndrome de Bosley-Salih-Aloainy
+0878 → Q878: Sindrome de Bowen-Conradi
+0871 → Q871: Síndrome de braguimorfismo - oncodisplasia - disfalangismo
+0788 → Q788: Sindrome de Buschke-011endorff
+0878 → Q878: Sindrome de Cabezas
+0783 → Q783: Sindrome de Camurati Engelmann
+0897 → Q897: Sindrome de Cantrell Haller Ravitsch
+0828 → Q828: Sindrome de Cantu
+0870 → Q870: Sindrome de Carey-Fineman-Ziter
+0878 → Q878: Síndrome de Carnevale
+0870 → Q870: Sindrome de Carpenter
+0878 → Q878: Sindrome de cataratas congénitas, dismorfia facial, y neuropatía (CCFDN)
+0878 → Q878: Síndrome de Catel-Manzke
+0870 → Q870: Sindrome de cefalopolisindactilia de Greig
+0878 → Q878: Sindrome de Char
+0878 → Q878: Síndrome de CH1LD
+0875 → Q875: Síndrome de Christian de Myer Franken
+0824 → Q824: Síndrome de Christ-Siemens-Touraine
+0828 → Q828: Síndrome de Clouston
+0873 → Q873: Síndrome de CLOVE's
+0273 → Q273: Síndrome de Cobb
+0871 → Q871: Síndrome de Cockayne
+0871 → Q871: Síndrome de Coffin Siris
+0870 → Q870: Síndrome de Coffin-Lowry
+0878 → Q878: Síndrome de Cohen
+0780 → Q780: Síndrome de Cole-Carpenter
+0846 → Q846: Síndrome de Cooks
+0878 → Q878: Síndrome de Cooper-Jabs
+0871 → Q871: Síndrome de Cornelia de Lange
+0878 → Q878: Síndrome de Costello
+0875 → Q875: Síndrome de Cousin-Walbraum-Cegarra
+0858 → Q858: Sindrome de Cowden
+0871 → Q871: Sindrome de Coxo auricular
+0870 → Q870: Síndrome de Curry Jones
+0878 → Q878: Sindrome de Dahlberq Borer Newcomer
+0935 → Q935: Sindrome de delecion 6q16
+0788 → Q788: Síndrome de Desbuquois
+0044 → Q044: Síndrome de Dincsoy Salih Patel
+0878 → Q878: Sindrome de Donnai-Barrow
+0871 → Q871: Síndrome de Dubowitz
+0777 → Q777: Síndrome de Dyggve-Melchior-Clausen
+0878 → Q878: Sindrome de EEM
+0796 → Q796: Sindrome de Ehlers-Danlos de tipo vascular
+0796 → Q796: Sindrome de Ehlers-Danlos tipo artrocalasia — TIPO VII
+0796 → Q796: Sindrome de Ehlers-Danlos tipo cifoescoliosis — TIPO VI
+0796 → Q796: Sindrome de Ehlers-Danlos tipo clásico — TIPO 1Y 11
+0796 → Q796: Sindrome de Ehlers-Danlos tipo dermatosparaxis — TIPO VII C
+0796 → Q796: Sindrome de Ehlers-Danlos tipo hiperlaxitud — TIPO III
+0878 → Q878: Sindrome de Eiken
+0776 → Q776: Síndrome de Ellis-Van Creveld
+0871 → Q871: Sindrome de Eng Strom
+0870 → Q870: Sindrome de escafocefalia familiar tipo McGillivray
+0878 → Q878: Síndrome de Filippi
+0878 → Q878: Síndrome de Fine Lubinsky
+0878 → Q878: Sindrome de Finlay Markes
+0878 → Q878: Sindrome de Floating-Harbor
+0878 → Q878: Síndrome de Flynn Aird
+0878 → Q878: Sindrome de Fountain
+0878 → Q878: Sindrome de Frank-Ter Haar
+0870 → Q870: Sindrome de Fraser
+0870 → Q870: Síndrome de Freeman-Sheldon
+0878 → Q878: Sindrome de Fried
+0878 → Q878: Sindrome de Fryns
+0748 → Q748: Síndrome de Fuhrmann
+0564 → Q564: Sindrome de Fuqua Berkovitz
+0043 → Q043: Sindrome de Galloway
+0878 → Q878: Sindrome de German
+0870 → Q870: Síndrome de Goldblatt
+0870 → Q870: Sindrome de Goldenhar
+0870 → Q870: Sindrome de Goodman
+0878 → Q878: Síndrome de Gorlin
+0870 → Q870: Síndrome de Gorlin Chaudry Moss
+0870 → Q870: Síndrome de Hallermann Streiff Francois
+0878 → Q878: Síndrome de Hartsfield Bixler Demyer
+0878 → Q878: Síndrome de Hennekam
+0822 → Q822: Síndrome de Hennekam Beemer
+0878 → Q878: Síndrome de hipopiqmentación con sordera ysneguera, tipo yemeni
+0872 → Q872: Síndrome de Holt-Oram
+0878 → Q878: Síndrome de Houlston Iraggori Murday
+0808 → Q808: Síndrome de Ictiosis y nacimiento prematuro
+0871 → Q871: Síndrome de IMAGE .
+0438 → Q438: Síndrome de intestino corto
+0868 → Q868: Síndrome de isotretinoina like
+0878 → Q878: Síndrome de Jackson-Weiss
+0935 → Q935: Síndrome de Jacobsen
+0772 → Q772: Sindrome de Jeune
+0878 → Q878: Síndrome de Johanson Blizzard
+0878 → Q878: Síndrome de Johnson Mcmillin
+0043 → Q043: Sindrome de Joubert
+0043 → Q043: Síndrome de Joubert con defecto orofaciodigital
+0870 → Q870: Sindrome de Juberg Hayward
+0870 → Q870: Sindrome de Kabuki make up
+0878 → Q878: Sindrome de Kaler Garrity Stern
+0248 → Q248: Sindrome de Kallmann cardiopatia
+0878 → Q878: Síndrome de Kapur-Toriello
+0761 → Q761: Síndrome de Klippel-Feil aislado
+0878 → Q878: Sindrome de Kozlowski Brown Hardwick
+0846 → Q846: Sindrome de Kumar Levick
+0268 → Q268: Síndrome de la cimitarra
+0828 → Q828: Sindrome de la piel rizada
+0748 → Q748: Sindrome de Larsen
+0748 → Q748: Sindrome de Larsen like forma letal
+0318 → Q318: Síndrome de Leigh
+0878 → Q878: Síndrome de Lelis
+0404 → Q404: Síndrome de Lennox-Gastaut
+0824 → Q824: Síndrome de Lewis Pashayan
+0781 → Q781: Síndrome de Lichtenstein
+0788 → Q788: Síndrome de Lipodistrofia - retraso mental - sordera
+0875 → Q875: Síndrome de Lowry-Wood
+0784 → Q784: Síndrome de Maffucci
+0878 → Q878: Síndrome de Majeed (mutacion de LPIN2)
+0873 → Q873: Síndrome de Marshall-Smith
+0458 → Q458: Síndrome de Martinez-Frias
+0112 → Q112: Síndrome de Matthew-Wood
+0518 → Q518: Sindrome de Mayer-Rok tansky-Küster-Hauser
+0781 → Q781: Síndrome de McCune-Albright
+0878 → Q878: Síndrome de Meacham
+0619 → Q619: Síndrome de Meckel
+0878 → Q878: Síndrome de MEHMO
+0935 → Q935: Síndrome de microdelecion 12q14
+0935 → Q935: Síndrome de microdelecion 15q24
+0935 → Q935: Síndrome de microdelecion 2p21
+0935 → Q935: Síndrome de microdelecion 2q24
+0935 → Q935: Síndrome de microdelecion 2q37
+0043 → Q043: Síndrome de microlisencefalia - micromelia
+0878 → Q878: Síndrome de miembros y mamas
+0043 → Q043: Síndrome de Miller Dieker
+0820 → Q820: Síndrome de Milroy
+0870 → Q870: Síndrome de Moebius
+0875 → Q875: Síndrome de Mononen Kames Senac
+0778 → Q778: Síndrome de Moore Federman
+0431 → Q431: Síndrome de Mowat-Wilson
+0870 → Q870: Síndrome de Muenke
+0878 → Q878: Síndrome de Myhre Ruvalcaba Graham
+0824 → Q824: Síndrome de Naeqeli-Franceschetti-Jadassohn
+0870 → Q870: Síndrome de Nance-Horan
+0878 → Q878: Síndrome de Neu-Laxova
+0796 → Q796: Síndrome de Nevo
+0858 → Q858: Síndrome de Nevus epidermico
+0878 → Q878: Síndrome de Nijmegen Breakage
+0871 → Q871: Síndrome de Noonan
+0878 → Q878: Síndrome de Okamoto Satomura
+0828 → Q828: Síndrome de Olmsted
+0818 → Q818: Síndrome de Omenn
+0878 → Q878: Síndrome de Opitz ligado al cromosoma X
+0878 → Q878: Síndrome de Pai
+0330 → Q330: Síndrome de Pallister-Hall
+0828 → Q828: Síndrome de Papillon-Lefévre
+0872 → Q872: Síndrome de Parkes Weber
+0878 → Q878: Síndrome de Partington
+0873 → Q873: Síndrome de Perlman
+0878 → Q878: Síndrome de Perrault
+0134 → Q134: Síndrome de Peters-Plus
+0858 → Q858: Síndrome de Peutz-Jeghers
+0870 → Q870: Síndrome de Pfeiffer
+0878 → Q878: Síndrome de Pierre Robin - anomalía faciodigital
+0870 → Q870: Síndrome de Pierre Robin aislado
+0870 → Q870: Síndrome de Pitt Hopkins
+0798 → Q798: Síndrome de Poland
+0935 → Q935: Síndrome de Potocki-Shaffer
+0871 → Q871: Síndrome de Prader-Willi
+0878 → Q878: Síndrome de Prieto Badia Mulas
+0873 → Q873: Sindrome de Proteus
+0878 → Q878: Síndrome de pseudo-Zellweger
+0798 → Q798: Síndrome de pteriqion múltiple autosómico dominante
+0688 → Q688: Síndrome de Pterigium antecubital
+0872 → Q872: Sindrome de Pterigium popliteo autosómico dominante
+0872 → Q872: Síndrome de pulgar largo braquidactilia
+0878 → Q878: Síndrome de Qazi Markouizos
+0824 → Q824: Síndrome de Rapp Hodqkin
+0875 → Q875: Síndrome de Renpenning
+0738 → Q738: Síndrome de Roberts
+0871 → Q871: Síndrome de Robinow
+0871 → Q871: Síndrome de Robinow like
+0777 → Q777: Síndrome de Roifman
+0828 → Q828: Síndrome de Rothmund-Thomson
+0741 → Q741: Síndrome de rotula parva
+0878 → Q878: Síndrome de rotura de Nijmeqen
+0872 → Q872: Síndrome de Rubinstein-Taybi
+0870 → Q870: Síndrome de Rudicier Schmidt Loose
+0870 → Q870: Síndrome de Saethre-Chotzen
+0870 → Q870: Síndrome de Sakati Nyhan Tisdale
+0875 → Q875: Síndrome de Saldino-Mainzer
+0878 → Q878: Síndrome de Say Barber Miller
+0828 → Q828: Síndrome de Scarf
+0870 → Q870: Síndrome de Schilbach-Rott
+0870 → Q870: Síndrome de Schinzel-Giedion
+0828 → Q828: Síndrome de Schopf-Schulz-Passarge
+0871 → Q871: Síndrome de Seckel
+0615 → Q615: Síndrome de Senior-Loken
+0878 → Q878: Síndrome de SERKAL
+0878 → Q878: Síndrome de Shprintzen-Goldberq
+0878 → Q878: Síndrome de Siegler Brewer Carey
+0748 → Q748: Síndrome de Sillence
+0871 → Q871: Síndrome de Silver-Russell
+0873 → Q873: Síndrome de Simpson-Golabi-Behmel
+0873 → Q873: Síndrome de Simpson-Golabi-Behmel tipo 2
+0871 → Q871: Síndrome de Sjogren-Larsson
+0871 → Q871: Síndrome de Smith-Lemli-Opitz
+0878 → Q878: Síndrome de Smith-Magenis
+0878 → Q878: Síndrome de sordera branquiogénica
+0935 → Q935: Síndrome de sordera e infertilidad
+0873 → Q873: Síndrome de Sotos
+0875 → Q875: Síndrome de Stickler
+0878 → Q878: Síndrome de Stimmler
+0858 → Q858: Síndrome de Sturqe Weber
+0788 → Q788: Síndrome de Suárez-Stickler
+0820 → Q820: Sindrome de Summit
+0878 → Q878: Síndrome de Teebi Shaltout
+0878 → Q878: Síndrome de Temtamy
+0878 → Q878: Sindrome de Tietz
+0871 → Q871: Sindrome de Torg-Winchester
+0878 → Q878: Sindrome de Toriello Carey
+0878 → Q878: Síndrome de Toriello Lacassie Droste
+0878 → Q878: Síndrome de Townes-Brocks
+0754 → Q754: Sindrome de Treacher-Collins
+0969 → Q969: Síndrome de Turner
+0878 → Q878: Síndrome de Ulbriqht-Hodes
+0878 → Q878: Síndrome de Van der Bosch
+0380 → Q380: Síndrome de Van Der Woude
+0878 → Q878: Síndrome de Vater-like, con hipertensión pulmonar, anomalías de las orejas y retraso del crecimiento
+0878 → Q878: Síndrome de Vici
+0878 → Q878: Síndrome de Waardenburg-Shah
+0873 → Q873: Síndrome de Weaver
+0878 → Q878: Síndrome de Weaver Williams
+0870 → Q870: Síndrome de Weill Marchesani
+0878 → Q878: Sindrome de Williams
+0878 → Q878: Sindrome de Wilson Turner
+0933 → Q933: Síndrome de Wolf-Hirschhorn
+0878 → Q878: Sindrome de Zellweger
+0878 → Q878: Síndrome de Zellweger-like sin anomalías peroxisomicas
+0878 → Q878: Síndrome de Zunich-Kaye
+0750 → Q750: Síndrome del cráneo en trébol aislado
+0878 → Q878: Síndrome dígito reno cerebral
+0878 → Q878: Síndrome disgenésico del tronco encefálico de Athabaskan
+0878 → Q878: Síndrome DOOR
+0878 → Q878: Sindrome lacio-cardio-mélico
+0871 → Q871: Síndrome FILS (mutación en POLE1)
+0878 → Q878: Síndrome CAPO
+0878 → Q878: Síndrome Genitopatelar
+0878 → Q878: Síndrome HEC
+0878 → Q878: Sindrome hydrolethalus
+0808 → Q808: Síndrome IBIDS
+0878 → Q878: Síndrome KBG
+0808 → Q808: Síndrome KID
+0878 → Q878: Síndrome lacrimo-auriculo-dento-digital
+0878 → Q878: Síndrome LEOPARD
+0878 → Q878: Síndrome MEDNIK
+0043 → Q043: Síndrome Micro
+0112 → Q112: Síndrome MIDAS
+0878 → Q878: Síndrome N
+0878 → Q878: Sindrome neurocutáneo tipo Bicknell
+0878 → Q878: Síndrome neuroectodérmico-endocrino
+0875 → Q875: Síndrome oculo osteo cutáneo
+0878 → Q878: Síndrome oculo-cerebro-cutáneo
+0878 → Q878: Síndrome oculo-digito-esofágico-duodenal (ODED)
+0871 → Q871: Síndrome oculopalatocerebral
+0878 → Q878: Síndrome odonto-trico-onico-digito-palmar
+0870 → Q870: Síndrome oral-facial-digital no especificado
+0870 → Q870: Síndrome oral-facial-digital tipo 1
+0870 → Q870: Síndrome oral-facial-digital tipo 3
+0870 → Q870: Síndrome oral-facial-digital tipo 4
+0870 → Q870: Síndrome oral-facial-digital tipo 8
+0870 → Q870: Síndrome oto-palato-digital
+0878 → Q878: Síndrome PAGOD
+0878 → Q878: Síndrome PARC
+0878 → Q878: Síndrome PELVIS
+0878 → Q878: Síndrome PHACE
+0878 → Q878: Síndrome potimalformativo letal tipo Boissel
+0871 → Q871: Síndrome RAPADILINO
+0878 → Q878: Síndrome RHYNS
+0871 → Q871: Síndrome SHORT
+0878 → Q878: Síndrome frico dental
+0824 → Q824: Síndrome trico dento óseo tipo 1
+0871 → Q871: Síndrome tricorrinofalángico, tipo 1 y 3
+0718 → Q718: Síndrome ulnar-mamario
+0872 → Q872: Síndrome uña-rotula
+0878 → Q878: Síndrome W
+0872 → Q872: Síndrome Klippel Trenaunay Servelle
+0872 → Q872: Síndrome Klippel Trenaunay Weber
+0764 → Q764: Sinespondilismo congénito
+0748 → Q748: Sinfalangismo anomalias múltiples manos y pies
+0709 → Q709: Sinfalangismo distal
+0878 → Q878: Singnatia anomalias múltiples
+0740 → Q740: Sinostosis humero - cubital
+0740 → Q740: Sinostosis humeroradial aislada
+0740 → Q740: Sinostosis humeroradiocubital
+0872 → Q872: Sinostosis radio-ulnar - trombocitopenia amegakaryocitica
+0872 → Q872: Sirenomelia
+0878 → Q878: Sordera - anomalias genitales - sinostosis de metacarpianos y metatarsianos
+0878 → Q878: Sordera - Déficit intelectual, tipo Madin-Probst
+0878 → Q878: Sordera - hipoplasia del esmalte - anomalia en las uñas
+0878 → Q878: Sordera - vitiligo - acalasia
+0165 → Q165: Sordera con aplasia del laberinto, microtia y microdoncia
+0871 → Q871: Talla baja tipo Bruselas
+0772 → Q772: Toraco pélvica disostosis
+0878 → Q878: Torticolis queloides criptorquidismo
+0141 → Q141: Tortuosidad de las arterias retinianas
+0563 → Q563: Trastorno del desarrollo sexual - retraso mental
+0561 → Q561: Trastorno del desarrollo sexual 46 XY, insuficiencia adrenal
+0562 → Q562: Trastornos del desarrollo sexual 46, XX - anomalias esqueléticas
+0878 → Q878: Triada de Currarino
+0870 → Q870: Triqonocefalia - pulgares ensanchados
+0750 → Q750: Trigonocefalia aislada
+0870 → Q870: Ingonocefalia nariz bífida anomalias de extremidades
+0870 → Q870: Trigonocefalia talla baja retraso de crecimiento
+0914 → Q914: Trisomia 13
+0910 → Q910: Trisomia 18
+0922 → Q922: Trisomia 8q .
+0923 → Q923: Trisomia terminal 10q
+0870 → Q870: Trombocitopenia - Sindrome de Pierre Robin
+0878 → Q878: VACTERL hidrocefalia
+0821 → Q821: Xeroderma pigmentoso
+0875 → Q875: Xerodermia pies cayos anomalia de esmalte
+0043 → Q043: Xk aprosencefalia
+0878 → Q878: Asociación VATER con macrocefalia y ventriculomegafia
+0998 → Q998: Killian Pallister Nicola
+0256 → Q256: Obstrucción de Arterias Pulmonares por Estenosis Congénita de Arterias Pulmonares
+0878 → Q878: Síndrome Cardiofacio Cutáneo
+0610 → Q610: Síndrome de ataxia-pancitopenia
+0878 → Q878: Síndrome de Bannayan-Riley-Ruvacalva
+0878 → Q878: Síndrome de Bohring-Opitz
+0878 → Q878: Síndrome de Kleefstra
+0998 → Q998: Síndrome de Microduplicación Xq28 distal
+0828 → Q828: Síndrome de NLRP1, Autoinflamación con artritis y disqueratosis
+0718 → Q718: Síndrome IVIC
+0878 → Q878: Síndrome Pseudo TORCH 2
+0992 → Q992: Síndrome de X frágil
+0935 → Q935: Síndrome de microdeleción 19q13.11
+0871 → Q871: Sindrome de Wiedemann-Steiner
+0878 → Q878: Síndrome de Koolen- De Vries
+0935 → Q935: Deleción intersticial 14q12q13.3
+0870 → Q870: Síndrome cerebrofrontofacial de Baraister-Winter
+0872 → Q872: Asociación VACTERL
+0648 → Q648: Complejo OIES.
+
+DISTRIBUCIÓN POR CATEGORÍAS:
+----------------------------------------
+Q**: 1100 códigos
+E**: 358 códigos
+D**: 234 códigos
+G**: 233 códigos
+H**: 48 códigos
+M**: 44 códigos
+L**: 40 códigos
+K**: 28 códigos
+I**: 23 códigos
+C**: 17 códigos
+N**: 16 códigos
+P**: 12 códigos
+A**: 11 códigos
+F**: 11 códigos
+1**: 9 códigos
+J**: 9 códigos
+T**: 3 códigos
+B**: 3 códigos
+6**: 3 códigos
+8**: 2 códigos
+R**: 1 códigos

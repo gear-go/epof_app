@@ -1,0 +1,151 @@
+numero_colombia,nombre_colombia,encontrado,orpha_number,orpha_url,nombre_orphanet,codigos_cie10_orphanet,metodo_encontrado,similitud_nombre,error,codigo_cie10_colombia,observaciones_colombia
+450,Deficiencia de MyD88,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q848,Código corregido de 0848 a Q848
+451,Deficiencia de NFKB2,False,,,,[],,0,No encontrado por ningún método de búsqueda,G113,
+452,Deficiencia de NK cell,False,,,,[],,0,No encontrado por ningún método de búsqueda,D848,
+453,Deficiencia de ORAN,False,,,,[],,0,No encontrado por ningún método de búsqueda,XXXX,
+454,Deficiencia de oxoacyl CoA deshidrogenasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+455,Deficiencia de P14,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q828,Código corregido de 0828 a Q828
+456,"Deficiencia de perforina, FHL2",False,,,,[],,0,No encontrado por ningún método de búsqueda,D818,
+457,Deficiencia de PI3 kinasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q858,Código corregido de 0858 a Q858
+458,"Deficiencia de PI3K5 kinasa, activación (mutación en PIK3CD, P13KD)",False,,,,[],,0,No encontrado por ningún método de búsqueda,Q552,Código corregido de 0552 a Q552
+459,Deficiencia de PKcs DNA,False,,,,[],,0,No encontrado por ningún método de búsqueda,D811,
+460,Deficiencia de PMS2,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q489,Código corregido de 0489 a Q489
+461,Deficiencia de PNP,False,,,,[],,0,No encontrado por ningún método de búsqueda,D815,
+462,Deficiencia de properdin,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q841,Código corregido de 0841 a Q841
+463,Deficiencia de proteina relacionada con el Factor H,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q841,Código corregido de 0841 a Q841
+464,Deficiencia de Rac2,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q728,Código corregido de 0728 a Q728
+465,Deficiencia de RAG1,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q811,Código corregido de 0811 a Q811
+466,Deficiencia de RAG2,False,,,,[],,0,No encontrado por ningún método de búsqueda,D811,
+467,Deficiencia de Receptor BAFF,False,,,,[],,0,No encontrado por ningún método de búsqueda,D830,
+468,Deficiencia de RhoH,False,,,,[],,0,No encontrado por ningún método de búsqueda,D848,
+469,Deficiencia de RNF168,False,,,,[],,0,No encontrado por ningún método de búsqueda,D828,
+470,Deficiencia de SAMHD1 (AGS5),False,,,,[],,0,No encontrado por ningún método de búsqueda,G318,
+471,Deficiencia de SLC46A1,False,,,,[],,0,No encontrado por ningún método de búsqueda,E161,
+472,Deficiencia de STAT2,False,,,,[],,0,No encontrado por ningún método de búsqueda,D848,
+473,Deficiencia de STAT5b,False,,,,[],,0,No encontrado por ningún método de búsqueda,D828,
+474,Deficiencia de STIM-1,False,,,,[],,0,No encontrado por ningún método de búsqueda,D818,
+475,Deficiencia de 80(11 (FHL4),False,,,,[],,0,No encontrado por ningún método de búsqueda,D761,
+476,Deficiencia de Succinil-CoA Transferasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+477,Deficiencia de TACI (mutación TNFRSF13B),False,,,,[],,0,No encontrado por ningún método de búsqueda,D838,
+478,Deficiencia de TAP1/TAP2/Tapasin,False,,,,[],,0,No encontrado por ningún método de búsqueda,D816,
+479,Deficiencia de TBK1,False,,,,[],,0,No encontrado por ningún método de búsqueda,XXXX,
+480,Deficiencia de TCN2,False,,,,[],,0,No encontrado por ningún método de búsqueda,D512,
+481,Deficiencia de trombomodulin,False,,,,[],,0,No encontrado por ningún método de búsqueda,D688,
+482,Deficiencia de TyK2,False,,,,[],,0,No encontrado por ningún método de búsqueda,D824,
+483,Deficiencia de UNG,False,,,,[],,0,No encontrado por ningún método de búsqueda,D805,
+484,Deficiencia de WIPF1,False,,,,[],,0,No encontrado por ningún método de búsqueda,D820,
+485,"Deficiencia de XLP1, SH2D1A",False,,,,[],,0,No encontrado por ningún método de búsqueda,D823,
+486,"Deficiencia de XLP2, XIAP",False,,,,[],,0,No encontrado por ningún método de búsqueda,D823,
+487,Deficiencia de ZAP-70,False,,,,[],,0,No encontrado por ningún método de búsqueda,D818,
+488,Deficiencia de 13-Actin,False,,,,[],,0,No encontrado por ningún método de búsqueda,E740,
+489,Deficiencia de A5,False,,,,[],,0,No encontrado por ningún método de búsqueda,D800,
+490,Deficiencia en el receptor del complemento 2 CR2 (CD21),False,,,,[],,0,No encontrado por ningún método de búsqueda,D841,
+491,Deficiencia en el receptor del complemento 3 CR3,False,,,,[],,0,No encontrado por ningún método de búsqueda,D841,
+492,Deficiencia selectiva de IgA,False,,,,[],,0,No encontrado por ningún método de búsqueda,D693,
+493,Deficiencias distales de las extremidades - síndrome de micrognatia,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q923,Código corregido de 0923 a Q923
+494,Déficit combinado de los factores V y VIII,False,,,,[],,0,No encontrado por ningún método de búsqueda,D688,
+495,Déficit congénito de fibrinógeno,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+496,Déficit congénito de heparan-sulfato en los enterocitos,False,,,,[],,0,No encontrado por ningún método de búsqueda,P783,
+497,Déficit congénito de proteina C,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+498,Déficit congénito de proteina S,False,,,,[],,0,No encontrado por ningún método de búsqueda,D685,
+499,Déficit congénito de sacarasa-isomaltasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E743,
+500,"Déficit congénito de sintesis de ácidos biliares, tipo 4",False,,,,[],,0,No encontrado por ningún método de búsqueda,K768,
+501,Déficit congénito del factor II,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+502,Déficit congénito del factor IX,False,,,,[],,0,No encontrado por ningún método de búsqueda,D67X,
+503,Déficit congénito del factor V,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+504,Déficit congénito del factor VII,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+505,Déficit congénito del factor VIII,False,,,,[],,0,No encontrado por ningún método de búsqueda,D66X,
+506,Déficit congénito del factor X,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+507,Déficit congénito del factor XI,False,,,,[],,0,No encontrado por ningún método de búsqueda,D681,
+508,Déficit congénito del factor XIII,False,,,,[],,0,No encontrado por ningún método de búsqueda,D682,
+509,Déficit de 3-hidroxi 3-metilglutaril-CoA (HMG) sintetasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+510,Déficit de 3-hidroxiacil-CoA deshidrogenasa de ácidos grasos de cadena larga,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+511,Déficit de 5-oxoprolinasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E728,
+512,Déficit de 6-piruvil-tetrahidropterina sintasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E701,
+513,Déficit de adl-CoA deshidrogenasa de ácidos grasos de cadena media,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+514,Déficit de aconitasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,G713,
+515,Déficit de adenilsuccinato liasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E798,
+516,Déficit de adenosina monofosfato deaminasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E798,
+517,Déficit de adhesión leucodtaria tipo I,False,,,,[],,0,No encontrado por ningún método de búsqueda,D848,
+518,Déficit de adhesión leucodtaria tipo II,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q848,Código corregido de 0848 a Q848
+519,Déficit de adhesión leucocitaria tipo III,False,,,,[],,0,No encontrado por ningún método de búsqueda,D848,
+520,Déficit de aromatasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E258,
+521,Déficit de beta-ureidopropionasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E798,
+522,Déficit de biotinidasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E538,
+523,Déficit de carbamil-fosfato sintetasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E722,
+524,Déficit de camitina palmitoiltransferasa II,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+525,Déficit de camitina-acilcamitina translocasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+526,Déficit de deshidratasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E701,
+527,Déficit de Dihidropteridina reductasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E701,
+528,Déficit de dopamina beta-hidroxilasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,G908,
+529,Déficit de enzima ramificante del glucógeno,False,,,,[],,0,No encontrado por ningún método de búsqueda,E740,
+530,Déficit de fosfoenolpiruvato carboxiquinasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E744,
+531,Déficit de fosfofructoquinasa muscular,False,,,,[],,0,No encontrado por ningún método de búsqueda,E740,
+532,Déficit de fosfoglicerato quinasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E740,
+533,"Déficit de fructosa-1,6 difosfatasa",False,,,,[],,0,No encontrado por ningún método de búsqueda,E741,
+534,Déficit de gamma aminobutidco ácido transaminasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E728,
+535,Déficit de gamma-glutamil transpeptidasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E728,
+536,Déficit de gamma-glutamilcisteina sintetasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,D551,
+537,Déficit de glucógeno sintasa hepática,False,,,,[],,0,No encontrado por ningún método de búsqueda,E740,
+538,Déficit de glutation sintetasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,D551,
+539,Déficit de GTP-ciclohidrolasa I,False,,,,[],,0,No encontrado por ningún método de búsqueda,E701,
+540,Déficit de guanidinoacetato metiltransferasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E728,
+541,Déficit de LCAT,False,,,,[],,0,No encontrado por ningún método de búsqueda,E786,
+542,Déficit de metil cobalamina de tipo cbl E,False,,,,[],,0,No encontrado por ningún método de búsqueda,E721,
+543,Déficit de metil cobalamina de tipo cbl G,False,,,,[],,0,No encontrado por ningún método de búsqueda,E721,
+544,Déficit de N5-metilhomocisteina transferasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E721,
+545,Déficit de N-acetil-alfa-D-galactosam nidasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E771,
+546,Déficit de ornitina carbamil transferasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E724,
+547,Déficit de prolidasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E728,
+548,Déficit de succinil-CoA acetoacetato transferasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+549,Déficit de transaldolasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E748,
+550,Déficit de transportador de creatina ligado al cromosoma X,False,,,,[],,0,No encontrado por ningún método de búsqueda,E728,
+551,Déficit familiar aislado de glucocorticoides,False,,,,[],,0,No encontrado por ningún método de búsqueda,E271,
+552,Déficit intelectual tipo Birk-Barel,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q878,Código corregido de 0878 a Q878
+553,Déficit intelectual tipo Kahrizi,False,,,,[],,0,No encontrado por ningún método de búsqueda,E778,
+554,Degeneración cortico-basal,False,,,,[],,0,No encontrado por ningún método de búsqueda,G310,
+555,Degeneración helicoidal peripapilar coriorretiniana 1-1312,False,,,,[],,0,No encontrado por ningún método de búsqueda,XXXX,Sin código asignado
+556,Degeneración macular juvenil hipotriquia,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q840,Código corregido de 0840 a Q840
+557,Degeneración retiniana microftalmia glaucoma,False,,,,[],,0,No encontrado por ningún método de búsqueda,H355,
+558,Deleción 22q13,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q935,Código corregido de 0935 a Q935
+559,Deleción 5q35,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q935,Código corregido de 0935 a Q935
+560,Deleción 8p,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q935,Código corregido de 0935 a Q935
+561,Deleción terminal 6q,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q935,Código corregido de 0935 a Q935
+562,Demencia frontotemporal,False,,,,[],,0,No encontrado por ningún método de búsqueda,G310,
+563,Demencia frontotemporal con inclusiones Tau,False,,,,[],,0,No encontrado por ningún método de búsqueda,G310,
+564,Demencia frontotemporal y parkinsonismo ligado al cromosoma 17,False,,,,[],,0,No encontrado por ningún método de búsqueda,G310,
+565,Dentinogénesis imperfecta - estatura baja - sordera - retraso mental,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q875,Código corregido de 0875 a Q875
+566,Derivados mullerianos - linfangiectasia - pofidactiba,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q872,Código corregido de 0872 a Q872
+567,Dermatitis granulomatosa interstidal con artritis,False,,,,[],,0,No encontrado por ningún método de búsqueda,M301,
+568,Dermatitis seborreica-like con elementos psoriasiformes,False,,,,[],,0,No encontrado por ningún método de búsqueda,L218,
+569,Dermato osteolisis tipo Kirghize,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q828,Código corregido de 0828 a Q828
+570,Dermatoleucodistrofia,False,,,,[],,0,No encontrado por ningún método de búsqueda,E752,
+571,Dermatomiosilis,False,,,,[],,0,No encontrado por ningún método de búsqueda,M330,
+572,Dermatosis pustulosa subcórnea,False,,,,[],,0,No encontrado por ningún método de búsqueda,L131,
+573,Dermo odonto displasia,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q824,
+574,Dermoide anular de la cornea,False,,,,[],,0,No encontrado por ningún método de búsqueda,D311,
+575,Dermopatía restrictiva letal,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q828,Código corregido de 0828 a Q828
+576,Desmielinización cerebral debido a un Déficit de metionina adenosiltransferasa,False,,,,[],,0,No encontrado por ningún método de búsqueda,E721,
+577,Desmosterolosis,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q878,Código corregido de 0878 a Q878
+578,Desorden del metabolismo de los metales no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,E830,
+579,Desordenes de la purinas y pirimidinas no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,E799,
+580,Desordenes de los lipidos no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,E789,
+581,Desordenes del sistema inmune no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,D899,
+582,Desordenes del tejido conectivo no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,M351,
+583,Desordenes lisosomales no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,E752,
+584,Desordenes peroxisomales no especificados,False,,,,[],,0,No encontrado por ningún método de búsqueda,E713,
+585,Despiqmentación aguda bilateral del iris,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q138,Código corregido de 0138 a Q138
+586,Desprendimiento de retina regmatógeno autosómico dominante,False,,,,[],,0,No encontrado por ningún método de búsqueda,H330,
+587,Diabetes insipida nefrogénica,False,,,,[],,0,No encontrado por ningún método de búsqueda,N251,
+588,Diabetes mellitus neonata,False,,,,[],,0,No encontrado por ningún método de búsqueda,P702,
+589,"Diabetes mellitus, neonatal permanente - agenesia pancreática y cerebelosa",False,,,,[],,0,No encontrado por ningún método de búsqueda,Q450,Código corregido de 0450 a Q450
+590,"Diabetes, neonatal - grupo hipotiroidismo congénito - glaucoma congénito - fibrosis hepática - riñones poliquísticos",False,,,,[],,0,No encontrado por ningún método de búsqueda,Q611,Código corregido de 0611 a Q611
+591,Diabetes-sordera de transmisión materna,False,,,,[],,0,No encontrado por ningún método de búsqueda,E138,
+592,Diafano-espondilodisostosis,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q788,Código corregido de 0788 a Q788
+593,Diarrea congénita con malabsorción debido a insuficiencia de células enteroendocrinas,False,,,,[],,0,No encontrado por ningún método de búsqueda,P783,
+594,Diarrea intratable - atresia coanal - anomalías en los ojos,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q878,Código corregido de 0878 a Q878
+595,Diátesis hemorrágica por un defecto del receptor de colágeno,False,,,,[],,0,No encontrado por ningún método de búsqueda,D698,
+596,Dihidropirimidinuria,False,,,,[],,0,No encontrado por ningún método de búsqueda,E798,
+597,Dilatación aórtica -hipermovilidad de las articulaciones - tortuosidad arterial,False,,,,[],,0,No encontrado por ningún método de búsqueda,Q874,Código corregido de 0874 a Q874
+598,DIRA (IL1RN),False,,,,[],,0,No encontrado por ningún método de búsqueda,D848,
+599,Dirofilañasis,False,,,,[],,0,No encontrado por ningún método de búsqueda,8748,

@@ -1,0 +1,51 @@
+{
+  "ultimo_lote": 6,
+  "total_procesados": 900,
+  "total_matches": 0,
+  "inicio_proceso": "2025-07-01T22:04:59.702799",
+  "lotes_completados": [
+    {
+      "numero": 1,
+      "archivo": "resultados_homologacion\\lote_001_20250701_221301.csv",
+      "matches": 0,
+      "total": 150,
+      "timestamp": "20250701_221301"
+    },
+    {
+      "numero": 2,
+      "archivo": "resultados_homologacion\\lote_002_20250701_222440.csv",
+      "matches": 0,
+      "total": 150,
+      "timestamp": "20250701_222440"
+    },
+    {
+      "numero": 3,
+      "archivo": "resultados_homologacion\\lote_003_20250701_223410.csv",
+      "matches": 0,
+      "total": 150,
+      "timestamp": "20250701_223410"
+    },
+    {
+      "numero": 4,
+      "archivo": "resultados_homologacion\\lote_004_20250701_224127.csv",
+      "matches": 0,
+      "total": 150,
+      "timestamp": "20250701_224127"
+    },
+    {
+      "numero": 5,
+      "archivo": "resultados_homologacion\\lote_005_20250701_225816.csv",
+      "matches": 0,
+      "total": 150,
+      "timestamp": "20250701_225816"
+    },
+    {
+      "numero": 6,
+      "archivo": "resultados_homologacion\\lote_006_20250701_230655.csv",
+      "matches": 0,
+      "total": 150,
+      "timestamp": "20250701_230655"
+    }
+  ],
+  "ultima_actualizacion": "2025-07-01T23:06:55.272077"
+}

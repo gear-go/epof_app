@@ -1,0 +1,422 @@
+[
+  {
+    "numero": 1,
+    "nombre_original": "3MC Sindrome de Deficiencia COLEC11",
+    "codigo_cie10_colombia": "Q878",
+    "observaciones": "Código corregido de 0878 a Q878",
+    "orphanet_search": {
+      "success": true,
+      "original_name": "3MC Sindrome de Deficiencia COLEC11",
+      "search_term": "3Mc De Deficiencia Colec11",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:05.132027",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 2,
+    "nombre_original": "3-metilcrotonil glicinuria",
+    "codigo_cie10_colombia": "E711",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "3-metilcrotonil glicinuria",
+      "search_term": "3-Metilcrotonil Glicinuria",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:07.603890",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 3,
+    "nombre_original": "Sindrome Ablefaron macrostomia",
+    "codigo_cie10_colombia": "Q870",
+    "observaciones": "Código corregido de 0870 a Q870",
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Sindrome Ablefaron macrostomia",
+      "search_term": "Ablefaron Macrostomia",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:10.078815",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 4,
+    "nombre_original": "Abscesos asépticos sensibles a corticosteroides",
+    "codigo_cie10_colombia": "D898",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Abscesos asépticos sensibles a corticosteroides",
+      "search_term": "Abscesos Asépticos Sensibles A Corticosteroides",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:12.555523",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 5,
+    "nombre_original": "Sindrome de Acalasia microcefalia",
+    "codigo_cie10_colombia": "Q395",
+    "observaciones": "Código corregido de 0395 a Q395",
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Sindrome de Acalasia microcefalia",
+      "search_term": "De Acalasia Microcefalia",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:15.029144",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 6,
+    "nombre_original": "Acalasia primaria",
+    "codigo_cie10_colombia": "K220",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acalasia primaria",
+      "search_term": "Acalasia Primaria",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:17.501482",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 7,
+    "nombre_original": "Acatalasemia",
+    "codigo_cie10_colombia": "E803",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acatalasemia",
+      "search_term": "Acatalasemia",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:19.961675",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 8,
+    "nombre_original": "Aceruloplasminemia",
+    "codigo_cie10_colombia": "Q230",
+    "observaciones": "Código corregido de 0230 a Q230",
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Aceruloplasminemia",
+      "search_term": "Aceruloplasminemia",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:22.429757",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 9,
+    "nombre_original": "Acidemia 3-0H-3ME-glutarica",
+    "codigo_cie10_colombia": "E723",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia 3-0H-3ME-glutarica",
+      "search_term": "Acidemia 3-0H-3Me-Glutarica",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:24.892154",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 10,
+    "nombre_original": "Acidemia butirica",
+    "codigo_cie10_colombia": "E711",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia butirica",
+      "search_term": "Acidemia Butirica",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:27.350688",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 11,
+    "nombre_original": "Acidemia cadena media",
+    "codigo_cie10_colombia": "E711",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia cadena media",
+      "search_term": "Acidemia Cadena Media",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:29.819014",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 12,
+    "nombre_original": "Acidemia glutárica I",
+    "codigo_cie10_colombia": "E713",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia glutárica I",
+      "search_term": "Acidemia Glutárica I",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:32.285833",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 13,
+    "nombre_original": "Acidemia qlutárica II",
+    "codigo_cie10_colombia": "E713",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia qlutárica II",
+      "search_term": "Acidemia Qlutárica Ii",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:34.750309",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 14,
+    "nombre_original": "Acidemia isovalérica",
+    "codigo_cie10_colombia": "E711",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia isovalérica",
+      "search_term": "Acidemia Isovalérica",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:37.218921",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 15,
+    "nombre_original": "Acidemia metilmalonica - homocistinuria, tipo cbl C",
+    "codigo_cie10_colombia": "E721",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia metilmalonica - homocistinuria, tipo cbl C",
+      "search_term": "Acidemia Metilmalonica - Homocistinuria Tipo Cbl C",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:39.698203",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 16,
+    "nombre_original": "Acidemia metilmalonica - homocistinuria, tipo cbl D",
+    "codigo_cie10_colombia": "E721",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia metilmalonica - homocistinuria, tipo cbl D",
+      "search_term": "Acidemia Metilmalonica - Homocistinuria Tipo Cbl D",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:42.173767",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 17,
+    "nombre_original": "Acidemia metilmalonica - homocistinuria, tipo cbl F",
+    "codigo_cie10_colombia": "E721",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia metilmalonica - homocistinuria, tipo cbl F",
+      "search_term": "Acidemia Metilmalonica - Homocistinuria Tipo Cbl F",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:44.643051",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 18,
+    "nombre_original": "Acidemia metilmalonica - vitamina B12 sensible, tipo cbl A",
+    "codigo_cie10_colombia": "E711",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia metilmalonica - vitamina B12 sensible, tipo cbl A",
+      "search_term": "Acidemia Metilmalonica - Vitamina B12 Sensible Tip",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:47.109668",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 19,
+    "nombre_original": "Acidemia orgánica no especificada",
+    "codigo_cie10_colombia": "E711",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia orgánica no especificada",
+      "search_term": "Acidemia Orgánica No Especificada",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:49.575142",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  },
+  {
+    "numero": 19,
+    "nombre_original": "Acidemia orgánica no especificada",
+    "codigo_cie10_colombia": "E712",
+    "observaciones": NaN,
+    "orphanet_search": {
+      "success": true,
+      "original_name": "Acidemia orgánica no especificada",
+      "search_term": "Acidemia Orgánica No Especificada",
+      "matches": [],
+      "orpha_codes": [],
+      "icd10_codes": [
+        "G203",
+        "I134"
+      ]
+    },
+    "timestamp": "2025-07-01T21:28:52.034341",
+    "homologation_status": "FOUND",
+    "icd10_match": false,
+    "icd10_similarity": 0.0
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-07-01T21:22:45.077840",
+  "test_results": {
+    "Free Products": {
+      "product1": {
+        "status": "❌ ERROR",
+        "error": "'list' object has no attribute 'get'"
+      },
+      "product3": {
+        "status": "❌ HTTP 404",
+        "error": "Not Found"
+      },
+      "product4": {
+        "status": "❌ HTTP 404",
+        "error": "Not Found"
+      }
+    },
+    "API REST": {
+      "https://api.orphadata.com": {
+        "status": "🔌 SIN CONEXIÓN",
+        "error": "Error de conexión"
+      },
+      "https://orphanetapi.developer.azure-api.net": {
+        "status": "🔌 SIN CONEXIÓN",
+        "error": "Error de conexión"
+      }
+    },
+    "SPARQL Endpoints": {
+      "https://www.orphadata.com/sparql-ordo": {
+        "status": "🔌 SIN CONEXIÓN",
+        "error": "Error de conexión"
+      },
+      "https://www.orphadata.com/sparql-hoom": {
+        "status": "❌ HTTP 404",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 134.39
+      }
+    },
+    "Ontología ORDO": {
+      "http://www.orphadata.com/ontologies/ORDO_4.2.owl": {
+        "status": "✅ HTTP 301",
+        "content_type": "N/A",
+        "content_length": "0",
+        "last_modified": "N/A"
+      },
+      "https://www.orphadata.com/ontologies/ORDO_4.2.owl": {
+        "status": "❌ HTTP 404",
+        "content_type": "text/html; charset=UTF-8",
+        "content_length": "N/A",
+        "last_modified": "N/A"
+      }
+    }
+  },
+  "metadata": {
+    "python_version": "3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]",
+    "script_version": "1.0",
+    "timeout": 30
+  }
+}

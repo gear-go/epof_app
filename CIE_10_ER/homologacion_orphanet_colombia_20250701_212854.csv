@@ -1,0 +1,21 @@
+Número,Nombre_Enfermedad,CIE10_Colombia,Estado_Homologación,Códigos_Orphá,CIE10_Orphanet,Coincidencia_CIE10,Similitud_CIE10,Observaciones_Originales
+1,3MC Sindrome de Deficiencia COLEC11,Q878,FOUND,,"G203, I134",False,0.0,Código corregido de 0878 a Q878
+2,3-metilcrotonil glicinuria,E711,FOUND,,"G203, I134",False,0.0,
+3,Sindrome Ablefaron macrostomia,Q870,FOUND,,"G203, I134",False,0.0,Código corregido de 0870 a Q870
+4,Abscesos asépticos sensibles a corticosteroides,D898,FOUND,,"G203, I134",False,0.0,
+5,Sindrome de Acalasia microcefalia,Q395,FOUND,,"G203, I134",False,0.0,Código corregido de 0395 a Q395
+6,Acalasia primaria,K220,FOUND,,"G203, I134",False,0.0,
+7,Acatalasemia,E803,FOUND,,"G203, I134",False,0.0,
+8,Aceruloplasminemia,Q230,FOUND,,"G203, I134",False,0.0,Código corregido de 0230 a Q230
+9,Acidemia 3-0H-3ME-glutarica,E723,FOUND,,"G203, I134",False,0.0,
+10,Acidemia butirica,E711,FOUND,,"G203, I134",False,0.0,
+11,Acidemia cadena media,E711,FOUND,,"G203, I134",False,0.0,
+12,Acidemia glutárica I,E713,FOUND,,"G203, I134",False,0.0,
+13,Acidemia qlutárica II,E713,FOUND,,"G203, I134",False,0.0,
+14,Acidemia isovalérica,E711,FOUND,,"G203, I134",False,0.0,
+15,"Acidemia metilmalonica - homocistinuria, tipo cbl C",E721,FOUND,,"G203, I134",False,0.0,
+16,"Acidemia metilmalonica - homocistinuria, tipo cbl D",E721,FOUND,,"G203, I134",False,0.0,
+17,"Acidemia metilmalonica - homocistinuria, tipo cbl F",E721,FOUND,,"G203, I134",False,0.0,
+18,"Acidemia metilmalonica - vitamina B12 sensible, tipo cbl A",E711,FOUND,,"G203, I134",False,0.0,
+19,Acidemia orgánica no especificada,E711,FOUND,,"G203, I134",False,0.0,
+19,Acidemia orgánica no especificada,E712,FOUND,,"G203, I134",False,0.0,

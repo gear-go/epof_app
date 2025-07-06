@@ -1,0 +1,26 @@
+ESTADÍSTICAS DETALLADAS DE HOMOLOGACIÓN
+==================================================
+
+Fecha: 2025-07-02 07:49:55
+Versión Orphanet: 03 Jul 24
+Total procesadas: 2249
+
+Por nivel de confianza:
+  Alta: 2033 (90.4%)
+  Media: 175 (7.8%)
+  Baja: 39 (1.7%)
+  No encontrado: 2 (0.1%)
+
+Tasa de éxito: 99.9%
+
+TOP 10 MEJORES COINCIDENCIAS:
+  100.0% - 3MC Sindrome de Deficiencia COLEC11 → Síndrome 3MC
+  100.0% - 3-metilcrotonil glicinuria → Deficiencia de 3-metilcrotonil-CoA carboxilasa
+  100.0% - Sindrome de Acalasia microcefalia → Síndrome de acalasia-microcefalia
+  100.0% - Acalasia primaria → Acalasia idiopática
+  100.0% - Acatalasemia → Acatalasemia
+  100.0% - Aceruloplasminemia → Aceruloplasminemia
+  100.0% - Acidemia isovalérica → Acidemia isovalérica
+  100.0% - Acidemia propiónica → Acidemia propiónica
+  100.0% - Acidosis láctica → MELAS
+  100.0% - Aciduria fumárica → Aciduria fumárica

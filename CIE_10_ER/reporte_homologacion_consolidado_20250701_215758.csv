@@ -1,0 +1,33 @@
+Prioridad_Revision,Calidad_Match,ORPHA_Number,Nombre_Orphanet,Numero_Colombia,Nombre_Colombia,CIE10_Colombia,CIE10_Orphanet,Tipo_Match,Similitud,ORPHA_URL,Observaciones_Colombia
+Baja,Regular,5,Deficiencia de 3-hidroxiacil-CoA deshidrogenasa de cadena larga,510,Déficit de 3-hidroxiacil-CoA deshidrogenasa de ácidos grasos de cadena larga,E713,,nombre_similar,0.6363636363636364,https://www.orpha.net/es/disease/detail/5,
+Baja,Regular,13,Deficiencia de 6-piruvil-tetrahidropterina sintasa,512,Déficit de 6-piruvil-tetrahidropterina sintasa,E701,,nombre_similar,0.7142857142857143,https://www.orpha.net/es/disease/detail/13,
+Alta,Excelente,15,Acondroplasia,36,Acondroplasia,Q774,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/15,Código corregido de 0774 a Q774
+Alta,Excelente,24,Aciduria fumárica,28,Aciduria fumárica,E888,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/24,
+Baja,Regular,25,Deficiencia de glutaril-CoA deshidrogenasa,454,Deficiencia de oxoacyl CoA deshidrogenasa,E713,,nombre_similar,0.6666666666666666,https://www.orpha.net/es/disease/detail/25,
+Baja,Regular,26,Acidemia metilmalónica con homocistinuria,30,Aciduria metilmalónica con homocistinuria,E711,,nombre_similar,0.6,https://www.orpha.net/es/disease/detail/26,
+Alta,Excelente,29,Aciduria mevalónica,32,Aciduria mevalónica,E888,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/29,
+Alta,Excelente,33,Acidemia isovalérica,14,Acidemia isovalérica,E711,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/33,
+Alta,Excelente,35,Acidemia propiónica,21,Acidemia propiónica,E711,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/35,
+Alta,Excelente,39,Acromelanosis,48,Acromelanosis,L814,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/39,
+Alta,Excelente,40,Displasia acromesomélica tipo Maroteaux,629,Displasia acromesomélica tipo Maroteaux,Q778,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/40,Código corregido de 0778 a Q778
+Alta,Excelente,43,Adrenoleucodistrofia ligada al cromosoma X,55,Adrenoleucodistrofia ligada al cromosoma X,E713,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/43,
+Alta,Excelente,44,Adrenoleucodistrofia neonatal,2223,Adrenoleucodistrofia neonatal.,E713,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/44,
+Baja,Regular,45,Deficiencia de adenosina monofosfato deaminasa,516,Déficit de adenosina monofosfato deaminasa,E798,,nombre_similar,0.6666666666666666,https://www.orpha.net/es/disease/detail/45,
+Baja,Regular,46,Deficiencia de adenilsuccinato liasa,515,Déficit de adenilsuccinato liasa,E798,,nombre_similar,0.6,https://www.orpha.net/es/disease/detail/46,
+Baja,Regular,47,Agammaglobulinemia ligada al cromosoma X,55,Adrenoleucodistrofia ligada al cromosoma X,E713,,nombre_similar,0.6666666666666666,https://www.orpha.net/es/disease/detail/47,
+Baja,Regular,47,Agammaglobulinemia ligada al cromosoma X,1076,Ictiosis ligada al cromosoma X,Q801,,nombre_similar,0.6666666666666666,https://www.orpha.net/es/disease/detail/47,Código corregido de 0801 a Q801
+Baja,Regular,47,Agammaglobulinemia ligada al cromosoma X,1465,Retinosquisis ligada al cromosoma X,Q141,,nombre_similar,0.6666666666666666,https://www.orpha.net/es/disease/detail/47,Código corregido de 0141 a Q141
+Alta,Excelente,50,Síndrome de Aicardi,1576,Síndrome de Aicardi,Q040,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/50,Código corregido de 0040 a Q040
+Baja,Regular,53,Osteopetrosis de Albers-Schönberg,1311,Osteopetrosis de Albers-Schbnberg,Q782,,nombre_similar,0.6,https://www.orpha.net/es/disease/detail/53,Código corregido de 0782 a Q782
+Media,Excelente,54,Albinismo ocular recesivo ligado al cromosoma X,74,Albinismo ocular ligado al cromosoma X recesivo,E703,,nombre_similar,1.0,https://www.orpha.net/es/disease/detail/54,
+Alta,Excelente,55,Albinismo oculo-cutáneo,76,Albinismo oculo-cutáneo,E703,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/55,
+Alta,Excelente,56,Alcaptonuria,77,Alcaptonuria -,E702,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/56,
+Alta,Excelente,58,Enfermedad de Alexander,788,Enfermedad de Alexander,E752,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/58,
+Alta,Excelente,59,Síndrome de Allan-Herndon-Dudley,1580,Síndrome de Allan-Herndon-Dudley,E031,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/59,
+Alta,Excelente,61,Alfa-manosidosis,79,Alfa-manosidosis,E771,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/61,
+Alta,Excelente,63,Síndrome de Alport,1582,Síndrome de Alport,Q878,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/63,Código corregido de 0878 a Q878
+Baja,Regular,65,Amaurosis congénita de Leber,83,Amaurosis congenita de Leber,H355,,nombre_similar,0.6,https://www.orpha.net/es/disease/detail/65,
+Alta,Excelente,70,Atrofia muscular espinal proximal,210,Atrofia muscular espinal proximal,G120,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/70,
+Alta,Excelente,72,Síndrome de Angelman,1588,Sindrome de Angelman,Q935,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/72,Código corregido de 0935 a Q935
+Alta,Excelente,73,Enfermedad de Gorham-Stout,1728,Síndrome de Gorham Stout,M895,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/73,
+Alta,Excelente,83,Síndrome de Antley-Bixler,1592,Síndrome de Antley-Bixler,Q870,,nombre_exacto,1.0,https://www.orpha.net/es/disease/detail/83,Código corregido de 0870 a Q870

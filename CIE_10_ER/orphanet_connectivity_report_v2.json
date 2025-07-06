@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-07-02T07:04:04.392755",
+  "success_rate": 75.0,
+  "status_icon": "🟢",
+  "test_results": {
+    "Sitio Principal": {
+      "https://www.orpha.net": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 45.66,
+        "server": "Apache/2.4.58 (Ubuntu)"
+      },
+      "http://www.orpha.net": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 45.66,
+        "server": "Apache/2.4.58 (Ubuntu)"
+      },
+      "https://www.orphadata.org": {
+        "status": "❌ HTTP 403",
+        "content_type": "text/html",
+        "size_kb": 0.33,
+        "server": "nginx"
+      },
+      "http://www.orphadata.org": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 280.7,
+        "server": "Apache"
+      }
+    },
+    "Archivos de Datos": {
+      "http://www.orphadata.org/cgi-bin/rare_free.html": {
+        "status": "✅ HTTP 301",
+        "content_type": "text/html",
+        "content_length": "162",
+        "last_modified": "N/A"
+      },
+      "https://www.orphadata.org/cgi-bin/rare_free.html": {
+        "status": "❌ HTTP 404",
+        "content_type": "text/html",
+        "content_length": "N/A",
+        "last_modified": "N/A"
+      },
+      "http://www.orphadata.org/data/xml/en_product1.xml": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/xml",
+        "content_length": "N/A",
+        "last_modified": "Wed, 02 Jul 2025 04:45:11 GMT"
+      },
+      "http://www.orphadata.org/data/xml/en_product3.xml": {
+        "status": "❌ HTTP 404",
+        "content_type": "text/html",
+        "content_length": "N/A",
+        "last_modified": "N/A"
+      }
+    },
+    "APIs Alternativas": {
+      "https://api.orphacode.org": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=utf-8",
+        "size_kb": 2.21
+      },
+      "http://api.orphacode.org": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=utf-8",
+        "size_kb": 2.21
+      },
+      "https://www.orphadata.com/api": {
+        "status": "❌ HTTP 404",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 134.39
+      },
+      "http://www.orphadata.com/api": {
+        "status": "❌ HTTP 404",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 134.39
+      }
+    },
+    "Funcionalidad Búsqueda": {
+      "https://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 36.76,
+        "has_search_form": true
+      },
+      "http://www.orpha.net/consor/cgi-bin/Disease_Search.php?lng=EN": {
+        "status": "✅ HTTP 200",
+        "content_type": "text/html; charset=UTF-8",
+        "size_kb": 36.76,
+        "has_search_form": true
+      }
+    },
+    "Búsqueda Manual": {
+      "search_Marfan": {
+        "status": "✅ HTTP 200",
+        "search_term": "Marfan",
+        "has_results": true,
+        "content_size_kb": 36.76
+      },
+      "search_Alport": {
+        "status": "✅ HTTP 200",
+        "search_term": "Alport",
+        "has_results": true,
+        "content_size_kb": 36.76
+      },
+      "search_Huntington": {
+        "status": "✅ HTTP 200",
+        "search_term": "Huntington",
+        "has_results": true,
+        "content_size_kb": 36.76
+      },
+      "search_Acondrogénesis": {
+        "status": "✅ HTTP 200",
+        "search_term": "Acondrogénesis",
+        "has_results": true,
+        "content_size_kb": 36.76
+      },
+      "search_Acromegalia": {
+        "status": "✅ HTTP 200",
+        "search_term": "Acromegalia",
+        "has_results": true,
+        "content_size_kb": 36.76
+      },
+      "search_Acalasia primaria": {
+        "status": "✅ HTTP 200",
+        "search_term": "Acalasia primaria",
+        "has_results": true,
+        "content_size_kb": 36.76
+      }
+    }
+  },
+  "metadata": {
+    "script_version": "2.0",
+    "python_version": "3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]",
+    "timeout": 10,
+    "total_tests": 20
+  }
+}
