@@ -199,3 +199,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ---
 
 *"Transformando la investigación en enfermedades raras a través de la inteligencia artificial: de la intuición clínica a la evidencia sintética validada"*
+
+## 🔄 Historial de Despliegues
+
+- **📅 Julio 6, 2025**: Prueba de configuración GitHub Pages - Verificando workflow actualizado
