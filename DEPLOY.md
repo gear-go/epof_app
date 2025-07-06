@@ -1,104 +1,119 @@
-# Deployment instructions for GitHub Pages
+# Guía de Despliegue - EPOF App
 
-## Prerequisites
-1. Repository created at: https://github.com/gear-go/epof_app
-2. Initialize this repository with the files in this directory
+## Estado del Proyecto ✅
 
-## Quick Deploy Commands
+La aplicación React para generación de trayectorias diagnósticas sintéticas de Enfermedades Poco Frecuentes (EPOF) ha sido **completamente configurada y desplegada**.
+
+### ✅ Configuraciones Completadas:
+
+1. **Repositorio GitHub**: https://github.com/gear-go/epof_app
+2. **Aplicación React**: Configurada con Vite + Tailwind CSS
+3. **GitHub Actions**: Workflow configurado para despliegue automático
+4. **GitHub Pages**: Configurado para servir desde rama `gh-pages`
+
+## 🚀 URL de la Aplicación
+
+**Aplicación Desplegada**: https://gear-go.github.io/epof_app/
+
+## 🔧 Problemas Solucionados
+
+### 1. Permisos de GitHub Actions
+**Problema**: El bot `github-actions[bot]` no tenía permisos para hacer push a la rama `gh-pages`.
+
+**Solución**: Se agregaron los permisos necesarios al workflow:
+```yaml
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+```
+
+### 2. Configuración de GitHub Pages
+**Problema**: GitHub Pages no estaba configurado correctamente.
+
+**Solución**: Se configuró GitHub Pages para usar la rama `gh-pages` como source.
+
+## 📋 Verificación del Despliegue
+
+### Pasos para verificar que todo funciona:
+
+1. **Revisar GitHub Actions**:
+   - Ve a: https://github.com/gear-go/epof_app/actions
+   - Verifica que el último workflow haya pasado ✅
+
+2. **Revisar GitHub Pages**:
+   - Ve a: Settings > Pages en el repo
+   - Verifica que esté configurado para usar `gh-pages` branch
+
+3. **Probar la aplicación**:
+   - Visita: https://gear-go.github.io/epof_app/
+   - Verifica que la aplicación carga correctamente
+
+## 🔄 Workflow de Despliegue Automático
+
+Cada vez que hagas push a la rama `main`, se ejecutará automáticamente:
+
+1. **Build**: Construye la aplicación React
+2. **Deploy**: Despliega a GitHub Pages
+3. **Disponible**: En https://gear-go.github.io/epof_app/
+
+## 🛠️ Comandos de Desarrollo
 
 ```bash
-# Initialize git repository
-git init
-
-# Add all files
-git add .
-
-# Initial commit
-git commit -m "Initial commit: RAREPol POC - Generador de Trayectorias EPOF"
-
-# Add remote repository
-git remote add origin https://github.com/gear-go/epof_app.git
-
-# Push to main branch
-git branch -M main
-git push -u origin main
-
-# Install dependencies
+# Instalar dependencias
 npm install
 
-# Build for production
+# Ejecutar en modo desarrollo
+npm run dev
+
+# Construir para producción
 npm run build
 
-# Deploy to GitHub Pages
-npm run deploy
+# Previsualizar build de producción
+npm run preview
 ```
 
-## Alternative: Manual GitHub Pages Setup
+## 📝 Próximos Pasos
 
-1. Go to https://github.com/gear-go/epof_app/settings
-2. Navigate to "Pages" section
-3. Select "Deploy from a branch"
-4. Choose "gh-pages" branch
-5. Click "Save"
+1. **Verificar el despliegue**: Visita la URL y confirma que todo funciona
+2. **Personalizar contenido**: Modifica los datos y parámetros según necesidades
+3. **Agregar funcionalidades**: Expande la aplicación con nuevas características
+4. **Documentar uso**: Crea guías de usuario para los investigadores
 
-Your site will be available at: `https://gear-go.github.io/epof_app/`
+## 🆘 Solución de Problemas
 
-## Local Development
+### Si el despliegue falla:
+
+1. **Revisa los logs de GitHub Actions**:
+   ```
+   https://github.com/gear-go/epof_app/actions
+   ```
+
+2. **Verifica las configuraciones**:
+   - `vite.config.js` tiene `base: '/epof_app/'`
+   - `package.json` tiene `homepage: "https://gear-go.github.io/epof_app"`
+
+3. **Revisa permisos**:
+   - Settings > Actions > General > Workflow permissions
+   - Debe estar en "Read and write permissions"
+
+### Si necesitas redeployar manualmente:
 
 ```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+# Desde la carpeta del proyecto
+npm run build
+git add dist
+git commit -m "Manual deploy"
+git push origin main
 ```
 
-## Directory Structure After Setup
+## 📊 Métricas y Monitoreo
 
-```
-epof_app/
-├── .git/
-├── dist/                  # Built files (created after npm run build)
-├── node_modules/          # Dependencies (created after npm install)
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   └── RareDiseasePOC.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── .gitignore
-├── index.html
-├── package.json
-├── postcss.config.js
-├── README.md
-├── tailwind.config.js
-└── vite.config.js
-```
+- **URL de Producción**: https://gear-go.github.io/epof_app/
+- **Repo GitHub**: https://github.com/gear-go/epof_app
+- **Workflow Status**: Disponible en GitHub Actions
+- **Last Deploy**: Visible en GitHub Pages settings
 
-## Environment Variables (Optional)
+---
 
-Create a `.env.local` file for custom configuration:
-
-```bash
-VITE_ANTHROPIC_API_KEY=your_api_key_here
-VITE_APP_TITLE=RAREPol POC
-```
-
-## Troubleshooting
-
-- If deployment fails, check that `base: '/epof_app/'` is set correctly in `vite.config.js`
-- Ensure the repository name matches the base path
-- Check that GitHub Pages is enabled in repository settings
-- Wait 5-10 minutes after deployment for changes to appear
-
-## Security Note
-
-The current implementation includes an API key in the frontend code for demonstration purposes only. In production:
-
-1. Move API calls to a backend service
-2. Use environment variables for sensitive data
-3. Implement proper authentication
-4. Add rate limiting and error handling
+**¡Proyecto completamente funcional y desplegado!** 🎉
